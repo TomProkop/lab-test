@@ -40,5 +40,7 @@
   "configDataDirectory": "/workspaces/lab-test/src/Packages.Main/Data",
   "configDataSchemaPath": "/workspaces/lab-test/src/Packages.Main/Data/data_schema.xml",
   "configDataFilePath": "/workspaces/lab-test/src/Packages.Main/Data/data.xml",
-  "testsUiScaffolded": true
+  "testsUiScaffolded": true,
+  "pluginsTestsScaffolded": true,
+  "scriptsTestsScaffolded": true
 }

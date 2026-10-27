@@ -2,8 +2,7 @@ export class TransactionForm {
     public static onLoad(executionContext: Xrm.Events.EventContext): void {
         const formContext = executionContext.getFormContext();
         const dateAttr = formContext.getAttribute<Xrm.Attributes.DateAttribute>('lab_transactiondate');
-        const isCreateForm = formContext.ui.getFormType() === 1;
-        if (isCreateForm && dateAttr && !dateAttr.getValue()) {
+        if (dateAttr && !dateAttr.getValue()) {
             dateAttr.setValue(new Date());
         }
     }
