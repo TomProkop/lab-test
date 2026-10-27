@@ -39,6 +39,706 @@
         <field name="lab_imageurl" value="https://images.openfoodfacts.org/images/products/544/900/000/0996/front_en.1129.400.jpg" />
         <field name="lab_lastsyncedon" value="2026-01-15T00:00:00Z" />
       </record>
+      <record id="42a5578a-8dcb-545b-9de3-3ba415bea1c1">
+        <field name="lab_productid" value="42a5578a-8dcb-545b-9de3-3ba415bea1c1" />
+        <field name="lab_name" value="Whole Milk" />
+        <field name="lab_ean" value="2000000000015" />
+        <field name="lab_brand" value="Demo Meadow Dairy" />
+        <field name="lab_quantity" value="1 L" />
+      </record>
+      <record id="83f2abb4-e539-5019-9090-36ed02663cf5">
+        <field name="lab_productid" value="83f2abb4-e539-5019-9090-36ed02663cf5" />
+        <field name="lab_name" value="Semi-Skimmed Milk" />
+        <field name="lab_ean" value="2000000000022" />
+        <field name="lab_brand" value="Demo Meadow Dairy" />
+        <field name="lab_quantity" value="1 L" />
+      </record>
+      <record id="ac753b49-dd31-5130-9e74-233262d4b650">
+        <field name="lab_productid" value="ac753b49-dd31-5130-9e74-233262d4b650" />
+        <field name="lab_name" value="Skimmed Milk" />
+        <field name="lab_ean" value="2000000000039" />
+        <field name="lab_brand" value="Demo Meadow Dairy" />
+        <field name="lab_quantity" value="1 L" />
+      </record>
+      <record id="cab918a7-c187-5094-ad56-d3830641fa5c">
+        <field name="lab_productid" value="cab918a7-c187-5094-ad56-d3830641fa5c" />
+        <field name="lab_name" value="Natural Yogurt" />
+        <field name="lab_ean" value="2000000000046" />
+        <field name="lab_brand" value="Demo Meadow Dairy" />
+        <field name="lab_quantity" value="500 g" />
+      </record>
+      <record id="9d453991-12b5-5de1-b1f6-fa41ef5af5b8">
+        <field name="lab_productid" value="9d453991-12b5-5de1-b1f6-fa41ef5af5b8" />
+        <field name="lab_name" value="Greek Style Yogurt" />
+        <field name="lab_ean" value="2000000000053" />
+        <field name="lab_brand" value="Demo Meadow Dairy" />
+        <field name="lab_quantity" value="450 g" />
+      </record>
+      <record id="3d6b21d8-8b06-5441-84db-7ee6da852e63">
+        <field name="lab_productid" value="3d6b21d8-8b06-5441-84db-7ee6da852e63" />
+        <field name="lab_name" value="Strawberry Yogurt" />
+        <field name="lab_ean" value="2000000000060" />
+        <field name="lab_brand" value="Demo Meadow Dairy" />
+        <field name="lab_quantity" value="4 x 125 g" />
+      </record>
+      <record id="56d31709-0993-54a9-82f6-296b9960496d">
+        <field name="lab_productid" value="56d31709-0993-54a9-82f6-296b9960496d" />
+        <field name="lab_name" value="Salted Butter" />
+        <field name="lab_ean" value="2000000000077" />
+        <field name="lab_brand" value="Demo Meadow Dairy" />
+        <field name="lab_quantity" value="250 g" />
+      </record>
+      <record id="8543e69b-9da1-5a2f-91d2-70805fa2566e">
+        <field name="lab_productid" value="8543e69b-9da1-5a2f-91d2-70805fa2566e" />
+        <field name="lab_name" value="Mature Cheddar" />
+        <field name="lab_ean" value="2000000000084" />
+        <field name="lab_brand" value="Demo Meadow Dairy" />
+        <field name="lab_quantity" value="300 g" />
+      </record>
+      <record id="704c96e2-2537-53ff-a38a-e3f12ad5654b">
+        <field name="lab_productid" value="704c96e2-2537-53ff-a38a-e3f12ad5654b" />
+        <field name="lab_name" value="Mozzarella" />
+        <field name="lab_ean" value="2000000000091" />
+        <field name="lab_brand" value="Demo Meadow Dairy" />
+        <field name="lab_quantity" value="125 g" />
+      </record>
+      <record id="3de759fd-06f7-5ab2-817c-77afe33cf498">
+        <field name="lab_productid" value="3de759fd-06f7-5ab2-817c-77afe33cf498" />
+        <field name="lab_name" value="Cottage Cheese" />
+        <field name="lab_ean" value="2000000000107" />
+        <field name="lab_brand" value="Demo Meadow Dairy" />
+        <field name="lab_quantity" value="200 g" />
+      </record>
+      <record id="c155340b-9c19-5b54-a303-37e2357ec113">
+        <field name="lab_productid" value="c155340b-9c19-5b54-a303-37e2357ec113" />
+        <field name="lab_name" value="White Sandwich Bread" />
+        <field name="lab_ean" value="2000000000114" />
+        <field name="lab_brand" value="Demo Hearth Bakery" />
+        <field name="lab_quantity" value="800 g" />
+      </record>
+      <record id="f50b6c3e-88a1-51ff-a46d-b9af1aad60cf">
+        <field name="lab_productid" value="f50b6c3e-88a1-51ff-a46d-b9af1aad60cf" />
+        <field name="lab_name" value="Wholemeal Bread" />
+        <field name="lab_ean" value="2000000000121" />
+        <field name="lab_brand" value="Demo Hearth Bakery" />
+        <field name="lab_quantity" value="800 g" />
+      </record>
+      <record id="ed633860-92ca-5564-b767-505f5045b51e">
+        <field name="lab_productid" value="ed633860-92ca-5564-b767-505f5045b51e" />
+        <field name="lab_name" value="Sourdough Loaf" />
+        <field name="lab_ean" value="2000000000138" />
+        <field name="lab_brand" value="Demo Hearth Bakery" />
+        <field name="lab_quantity" value="500 g" />
+      </record>
+      <record id="5c08087b-3d51-5728-b2df-eff645e6cb1e">
+        <field name="lab_productid" value="5c08087b-3d51-5728-b2df-eff645e6cb1e" />
+        <field name="lab_name" value="Plain Bagels" />
+        <field name="lab_ean" value="2000000000145" />
+        <field name="lab_brand" value="Demo Hearth Bakery" />
+        <field name="lab_quantity" value="5 x 85 g" />
+      </record>
+      <record id="761e7fec-45a0-53ba-bbc5-859e5af58afe">
+        <field name="lab_productid" value="761e7fec-45a0-53ba-bbc5-859e5af58afe" />
+        <field name="lab_name" value="Butter Croissants" />
+        <field name="lab_ean" value="2000000000152" />
+        <field name="lab_brand" value="Demo Hearth Bakery" />
+        <field name="lab_quantity" value="4 x 55 g" />
+      </record>
+      <record id="922551c6-f696-59d6-b4bf-2cfe476a1a71">
+        <field name="lab_productid" value="922551c6-f696-59d6-b4bf-2cfe476a1a71" />
+        <field name="lab_name" value="Wholemeal Pita Bread" />
+        <field name="lab_ean" value="2000000000169" />
+        <field name="lab_brand" value="Demo Hearth Bakery" />
+        <field name="lab_quantity" value="6 x 60 g" />
+      </record>
+      <record id="05da217f-7777-5fd5-982c-7b1441109f75">
+        <field name="lab_productid" value="05da217f-7777-5fd5-982c-7b1441109f75" />
+        <field name="lab_name" value="Flour Tortillas" />
+        <field name="lab_ean" value="2000000000176" />
+        <field name="lab_brand" value="Demo Hearth Bakery" />
+        <field name="lab_quantity" value="8 x 40 g" />
+      </record>
+      <record id="5f3a8719-6599-5a37-aa17-acbcddfefa28">
+        <field name="lab_productid" value="5f3a8719-6599-5a37-aa17-acbcddfefa28" />
+        <field name="lab_name" value="Sesame Burger Buns" />
+        <field name="lab_ean" value="2000000000183" />
+        <field name="lab_brand" value="Demo Hearth Bakery" />
+        <field name="lab_quantity" value="4 x 65 g" />
+      </record>
+      <record id="6ebbb0e8-6294-543d-8a04-be17d5662e0f">
+        <field name="lab_productid" value="6ebbb0e8-6294-543d-8a04-be17d5662e0f" />
+        <field name="lab_name" value="English Muffins" />
+        <field name="lab_ean" value="2000000000190" />
+        <field name="lab_brand" value="Demo Hearth Bakery" />
+        <field name="lab_quantity" value="4 x 70 g" />
+      </record>
+      <record id="382a9870-01df-52ac-afef-f39d087ca5bf">
+        <field name="lab_productid" value="382a9870-01df-52ac-afef-f39d087ca5bf" />
+        <field name="lab_name" value="Cinnamon Raisin Bread" />
+        <field name="lab_ean" value="2000000000206" />
+        <field name="lab_brand" value="Demo Hearth Bakery" />
+        <field name="lab_quantity" value="400 g" />
+      </record>
+      <record id="760c3895-88c3-587e-9f4d-dffb71d923fc">
+        <field name="lab_productid" value="760c3895-88c3-587e-9f4d-dffb71d923fc" />
+        <field name="lab_name" value="Spaghetti" />
+        <field name="lab_ean" value="2000000000213" />
+        <field name="lab_brand" value="Demo Golden Grain" />
+        <field name="lab_quantity" value="500 g" />
+      </record>
+      <record id="fd6663ff-0ffe-5b9d-b8d3-d3f073061699">
+        <field name="lab_productid" value="fd6663ff-0ffe-5b9d-b8d3-d3f073061699" />
+        <field name="lab_name" value="Penne Rigate" />
+        <field name="lab_ean" value="2000000000220" />
+        <field name="lab_brand" value="Demo Golden Grain" />
+        <field name="lab_quantity" value="500 g" />
+      </record>
+      <record id="d52e5da0-3cf8-5136-9dad-ef987acb697b">
+        <field name="lab_productid" value="d52e5da0-3cf8-5136-9dad-ef987acb697b" />
+        <field name="lab_name" value="Wholewheat Fusilli" />
+        <field name="lab_ean" value="2000000000237" />
+        <field name="lab_brand" value="Demo Golden Grain" />
+        <field name="lab_quantity" value="500 g" />
+      </record>
+      <record id="c455fa09-c950-5681-99a0-afb9c98e02db">
+        <field name="lab_productid" value="c455fa09-c950-5681-99a0-afb9c98e02db" />
+        <field name="lab_name" value="Basmati Rice" />
+        <field name="lab_ean" value="2000000000244" />
+        <field name="lab_brand" value="Demo Golden Grain" />
+        <field name="lab_quantity" value="1 kg" />
+      </record>
+      <record id="eaf1fe5a-89ce-5866-8539-dee9c1faf16e">
+        <field name="lab_productid" value="eaf1fe5a-89ce-5866-8539-dee9c1faf16e" />
+        <field name="lab_name" value="Brown Rice" />
+        <field name="lab_ean" value="2000000000251" />
+        <field name="lab_brand" value="Demo Golden Grain" />
+        <field name="lab_quantity" value="1 kg" />
+      </record>
+      <record id="d4c0b9e7-9e34-5b70-a5fc-7db2038c5a38">
+        <field name="lab_productid" value="d4c0b9e7-9e34-5b70-a5fc-7db2038c5a38" />
+        <field name="lab_name" value="Couscous" />
+        <field name="lab_ean" value="2000000000268" />
+        <field name="lab_brand" value="Demo Golden Grain" />
+        <field name="lab_quantity" value="500 g" />
+      </record>
+      <record id="688654aa-1553-53d1-8f98-1c3f77a1a1ce">
+        <field name="lab_productid" value="688654aa-1553-53d1-8f98-1c3f77a1a1ce" />
+        <field name="lab_name" value="Quinoa" />
+        <field name="lab_ean" value="2000000000275" />
+        <field name="lab_brand" value="Demo Golden Grain" />
+        <field name="lab_quantity" value="300 g" />
+      </record>
+      <record id="784db4f3-946f-58a2-b5fd-f3cd41653548">
+        <field name="lab_productid" value="784db4f3-946f-58a2-b5fd-f3cd41653548" />
+        <field name="lab_name" value="Rolled Oats" />
+        <field name="lab_ean" value="2000000000282" />
+        <field name="lab_brand" value="Demo Golden Grain" />
+        <field name="lab_quantity" value="1 kg" />
+      </record>
+      <record id="4e73df8d-67d8-5e4c-994e-e0252fd96291">
+        <field name="lab_productid" value="4e73df8d-67d8-5e4c-994e-e0252fd96291" />
+        <field name="lab_name" value="Plain Flour" />
+        <field name="lab_ean" value="2000000000299" />
+        <field name="lab_brand" value="Demo Golden Grain" />
+        <field name="lab_quantity" value="1.5 kg" />
+      </record>
+      <record id="9cb2da61-7076-5c34-96d2-e9db475f70f8">
+        <field name="lab_productid" value="9cb2da61-7076-5c34-96d2-e9db475f70f8" />
+        <field name="lab_name" value="Cornmeal" />
+        <field name="lab_ean" value="2000000000305" />
+        <field name="lab_brand" value="Demo Golden Grain" />
+        <field name="lab_quantity" value="500 g" />
+      </record>
+      <record id="f1f6f323-140c-51ba-ba87-c65cdf1d61f9">
+        <field name="lab_productid" value="f1f6f323-140c-51ba-ba87-c65cdf1d61f9" />
+        <field name="lab_name" value="Chopped Tomatoes" />
+        <field name="lab_ean" value="2000000000312" />
+        <field name="lab_brand" value="Demo Pantry Garden" />
+        <field name="lab_quantity" value="400 g" />
+      </record>
+      <record id="efc54023-c9d2-5a58-91d8-e7cc3106cf11">
+        <field name="lab_productid" value="efc54023-c9d2-5a58-91d8-e7cc3106cf11" />
+        <field name="lab_name" value="Chickpeas in Water" />
+        <field name="lab_ean" value="2000000000329" />
+        <field name="lab_brand" value="Demo Pantry Garden" />
+        <field name="lab_quantity" value="400 g" />
+      </record>
+      <record id="1e035a5f-9546-54e6-83ee-2f819bbe4299">
+        <field name="lab_productid" value="1e035a5f-9546-54e6-83ee-2f819bbe4299" />
+        <field name="lab_name" value="Red Kidney Beans" />
+        <field name="lab_ean" value="2000000000336" />
+        <field name="lab_brand" value="Demo Pantry Garden" />
+        <field name="lab_quantity" value="400 g" />
+      </record>
+      <record id="1a921ff5-3b42-5864-985a-5543c2359b3e">
+        <field name="lab_productid" value="1a921ff5-3b42-5864-985a-5543c2359b3e" />
+        <field name="lab_name" value="Sweetcorn" />
+        <field name="lab_ean" value="2000000000343" />
+        <field name="lab_brand" value="Demo Pantry Garden" />
+        <field name="lab_quantity" value="340 g" />
+      </record>
+      <record id="6d5757c9-de1c-50aa-bdc5-38b81deee73b">
+        <field name="lab_productid" value="6d5757c9-de1c-50aa-bdc5-38b81deee73b" />
+        <field name="lab_name" value="Green Peas" />
+        <field name="lab_ean" value="2000000000350" />
+        <field name="lab_brand" value="Demo Pantry Garden" />
+        <field name="lab_quantity" value="400 g" />
+      </record>
+      <record id="63226b03-e1d0-572e-9615-e6b5ccddfcb8">
+        <field name="lab_productid" value="63226b03-e1d0-572e-9615-e6b5ccddfcb8" />
+        <field name="lab_name" value="Tuna in Spring Water" />
+        <field name="lab_ean" value="2000000000367" />
+        <field name="lab_brand" value="Demo Pantry Garden" />
+        <field name="lab_quantity" value="145 g" />
+      </record>
+      <record id="84b899a6-1f59-5f54-a5ff-8c8328e616bd">
+        <field name="lab_productid" value="84b899a6-1f59-5f54-a5ff-8c8328e616bd" />
+        <field name="lab_name" value="Sardines in Olive Oil" />
+        <field name="lab_ean" value="2000000000374" />
+        <field name="lab_brand" value="Demo Pantry Garden" />
+        <field name="lab_quantity" value="120 g" />
+      </record>
+      <record id="3c6caa64-bdf4-5369-a110-3f58d536861c">
+        <field name="lab_productid" value="3c6caa64-bdf4-5369-a110-3f58d536861c" />
+        <field name="lab_name" value="Cream of Tomato Soup" />
+        <field name="lab_ean" value="2000000000381" />
+        <field name="lab_brand" value="Demo Pantry Garden" />
+        <field name="lab_quantity" value="400 g" />
+      </record>
+      <record id="ff80f772-8d91-5100-893c-3c6ab238d9cb">
+        <field name="lab_productid" value="ff80f772-8d91-5100-893c-3c6ab238d9cb" />
+        <field name="lab_name" value="Peach Slices in Juice" />
+        <field name="lab_ean" value="2000000000398" />
+        <field name="lab_brand" value="Demo Pantry Garden" />
+        <field name="lab_quantity" value="410 g" />
+      </record>
+      <record id="3edbdcc6-b742-5e38-b981-44f68916ff3f">
+        <field name="lab_productid" value="3edbdcc6-b742-5e38-b981-44f68916ff3f" />
+        <field name="lab_name" value="Coconut Milk" />
+        <field name="lab_ean" value="2000000000404" />
+        <field name="lab_brand" value="Demo Pantry Garden" />
+        <field name="lab_quantity" value="400 ml" />
+      </record>
+      <record id="941aa2e1-ae74-5097-9462-c7d010835a8f">
+        <field name="lab_productid" value="941aa2e1-ae74-5097-9462-c7d010835a8f" />
+        <field name="lab_name" value="Smooth Peanut Butter" />
+        <field name="lab_ean" value="2000000000411" />
+        <field name="lab_brand" value="Demo Sunrise Table" />
+        <field name="lab_quantity" value="340 g" />
+      </record>
+      <record id="b460b0f1-3929-56c8-82c2-26c4f06ee893">
+        <field name="lab_productid" value="b460b0f1-3929-56c8-82c2-26c4f06ee893" />
+        <field name="lab_name" value="Crunchy Almond Butter" />
+        <field name="lab_ean" value="2000000000428" />
+        <field name="lab_brand" value="Demo Sunrise Table" />
+        <field name="lab_quantity" value="170 g" />
+      </record>
+      <record id="d3577e30-a8c0-5fe1-8b89-0084ab54f3b4">
+        <field name="lab_productid" value="d3577e30-a8c0-5fe1-8b89-0084ab54f3b4" />
+        <field name="lab_name" value="Strawberry Jam" />
+        <field name="lab_ean" value="2000000000435" />
+        <field name="lab_brand" value="Demo Sunrise Table" />
+        <field name="lab_quantity" value="454 g" />
+      </record>
+      <record id="e6a58a12-cb88-5ee9-9bf4-4c8bdaca662d">
+        <field name="lab_productid" value="e6a58a12-cb88-5ee9-9bf4-4c8bdaca662d" />
+        <field name="lab_name" value="Orange Marmalade" />
+        <field name="lab_ean" value="2000000000442" />
+        <field name="lab_brand" value="Demo Sunrise Table" />
+        <field name="lab_quantity" value="454 g" />
+      </record>
+      <record id="a15a0d9c-8f7b-527f-8ee3-b67abf80a043">
+        <field name="lab_productid" value="a15a0d9c-8f7b-527f-8ee3-b67abf80a043" />
+        <field name="lab_name" value="Wildflower Honey" />
+        <field name="lab_ean" value="2000000000459" />
+        <field name="lab_brand" value="Demo Sunrise Table" />
+        <field name="lab_quantity" value="340 g" />
+      </record>
+      <record id="022e3877-6916-5bc2-986c-368446d762a4">
+        <field name="lab_productid" value="022e3877-6916-5bc2-986c-368446d762a4" />
+        <field name="lab_name" value="Maple Syrup" />
+        <field name="lab_ean" value="2000000000466" />
+        <field name="lab_brand" value="Demo Sunrise Table" />
+        <field name="lab_quantity" value="250 ml" />
+      </record>
+      <record id="77361644-d1bc-55af-9a6c-c6a2d855163a">
+        <field name="lab_productid" value="77361644-d1bc-55af-9a6c-c6a2d855163a" />
+        <field name="lab_name" value="Corn Flakes" />
+        <field name="lab_ean" value="2000000000473" />
+        <field name="lab_brand" value="Demo Sunrise Table" />
+        <field name="lab_quantity" value="500 g" />
+      </record>
+      <record id="ed9b42b2-bb99-586d-a3ff-6a8d700ef19d">
+        <field name="lab_productid" value="ed9b42b2-bb99-586d-a3ff-6a8d700ef19d" />
+        <field name="lab_name" value="Fruit &amp; Nut Muesli" />
+        <field name="lab_ean" value="2000000000480" />
+        <field name="lab_brand" value="Demo Sunrise Table" />
+        <field name="lab_quantity" value="750 g" />
+      </record>
+      <record id="efe7ba3f-1947-5dee-bba3-dcf891335949">
+        <field name="lab_productid" value="efe7ba3f-1947-5dee-bba3-dcf891335949" />
+        <field name="lab_name" value="Honey Oat Granola" />
+        <field name="lab_ean" value="2000000000497" />
+        <field name="lab_brand" value="Demo Sunrise Table" />
+        <field name="lab_quantity" value="500 g" />
+      </record>
+      <record id="5f10d3e3-37b9-5083-a007-89ce5afccb73">
+        <field name="lab_productid" value="5f10d3e3-37b9-5083-a007-89ce5afccb73" />
+        <field name="lab_name" value="Chocolate Breakfast Hoops" />
+        <field name="lab_ean" value="2000000000503" />
+        <field name="lab_brand" value="Demo Sunrise Table" />
+        <field name="lab_quantity" value="375 g" />
+      </record>
+      <record id="de96e1ed-ed1b-53f5-b07c-3a2c75ce24cc">
+        <field name="lab_productid" value="de96e1ed-ed1b-53f5-b07c-3a2c75ce24cc" />
+        <field name="lab_name" value="Still Spring Water" />
+        <field name="lab_ean" value="2000000000510" />
+        <field name="lab_brand" value="Demo Orchard Drinks" />
+        <field name="lab_quantity" value="1.5 L" />
+      </record>
+      <record id="4cf4756b-6688-5e9d-afdb-2b40625f52e8">
+        <field name="lab_productid" value="4cf4756b-6688-5e9d-afdb-2b40625f52e8" />
+        <field name="lab_name" value="Sparkling Spring Water" />
+        <field name="lab_ean" value="2000000000527" />
+        <field name="lab_brand" value="Demo Orchard Drinks" />
+        <field name="lab_quantity" value="1 L" />
+      </record>
+      <record id="5754323c-9c45-545d-ab68-b9924e804993">
+        <field name="lab_productid" value="5754323c-9c45-545d-ab68-b9924e804993" />
+        <field name="lab_name" value="Orange Juice from Concentrate" />
+        <field name="lab_ean" value="2000000000534" />
+        <field name="lab_brand" value="Demo Orchard Drinks" />
+        <field name="lab_quantity" value="1 L" />
+      </record>
+      <record id="b60bfdfc-6fa9-5954-b7d4-c25069bb4635">
+        <field name="lab_productid" value="b60bfdfc-6fa9-5954-b7d4-c25069bb4635" />
+        <field name="lab_name" value="Apple Juice from Concentrate" />
+        <field name="lab_ean" value="2000000000541" />
+        <field name="lab_brand" value="Demo Orchard Drinks" />
+        <field name="lab_quantity" value="1 L" />
+      </record>
+      <record id="81df871a-a588-5b7f-8765-91b4f76d1b67">
+        <field name="lab_productid" value="81df871a-a588-5b7f-8765-91b4f76d1b67" />
+        <field name="lab_name" value="Cranberry Juice Drink" />
+        <field name="lab_ean" value="2000000000558" />
+        <field name="lab_brand" value="Demo Orchard Drinks" />
+        <field name="lab_quantity" value="1 L" />
+      </record>
+      <record id="0cbf6326-c749-5acc-9bf4-3913d750b595">
+        <field name="lab_productid" value="0cbf6326-c749-5acc-9bf4-3913d750b595" />
+        <field name="lab_name" value="Lemonade" />
+        <field name="lab_ean" value="2000000000565" />
+        <field name="lab_brand" value="Demo Orchard Drinks" />
+        <field name="lab_quantity" value="2 L" />
+      </record>
+      <record id="b7e51fd0-d9e4-5ff7-8dc6-29f34edaf93f">
+        <field name="lab_productid" value="b7e51fd0-d9e4-5ff7-8dc6-29f34edaf93f" />
+        <field name="lab_name" value="Ginger Beer" />
+        <field name="lab_ean" value="2000000000572" />
+        <field name="lab_brand" value="Demo Orchard Drinks" />
+        <field name="lab_quantity" value="330 ml" />
+      </record>
+      <record id="baff1cc7-41c1-53a4-8c3c-0c0ed996299b">
+        <field name="lab_productid" value="baff1cc7-41c1-53a4-8c3c-0c0ed996299b" />
+        <field name="lab_name" value="Peach Iced Tea" />
+        <field name="lab_ean" value="2000000000589" />
+        <field name="lab_brand" value="Demo Orchard Drinks" />
+        <field name="lab_quantity" value="500 ml" />
+      </record>
+      <record id="d0b9585c-cf00-5d98-8c26-bf6b5ae13b29">
+        <field name="lab_productid" value="d0b9585c-cf00-5d98-8c26-bf6b5ae13b29" />
+        <field name="lab_name" value="UHT Oat Drink" />
+        <field name="lab_ean" value="2000000000596" />
+        <field name="lab_brand" value="Demo Orchard Drinks" />
+        <field name="lab_quantity" value="1 L" />
+      </record>
+      <record id="6aa1d79f-7c1a-5bd5-87bd-751a4d14fe12">
+        <field name="lab_productid" value="6aa1d79f-7c1a-5bd5-87bd-751a4d14fe12" />
+        <field name="lab_name" value="UHT Almond Drink" />
+        <field name="lab_ean" value="2000000000602" />
+        <field name="lab_brand" value="Demo Orchard Drinks" />
+        <field name="lab_quantity" value="1 L" />
+      </record>
+      <record id="ab3e32a5-7511-51b2-b371-79be680363d6">
+        <field name="lab_productid" value="ab3e32a5-7511-51b2-b371-79be680363d6" />
+        <field name="lab_name" value="Ready Salted Potato Crisps" />
+        <field name="lab_ean" value="2000000000619" />
+        <field name="lab_brand" value="Demo Trail Snacks" />
+        <field name="lab_quantity" value="150 g" />
+      </record>
+      <record id="2b7baff0-6b03-564c-90a7-935e21b0070f">
+        <field name="lab_productid" value="2b7baff0-6b03-564c-90a7-935e21b0070f" />
+        <field name="lab_name" value="Sea Salt Popcorn" />
+        <field name="lab_ean" value="2000000000626" />
+        <field name="lab_brand" value="Demo Trail Snacks" />
+        <field name="lab_quantity" value="90 g" />
+      </record>
+      <record id="d472c66a-b33b-5afb-b7f8-9079ca7a6f6c">
+        <field name="lab_productid" value="d472c66a-b33b-5afb-b7f8-9079ca7a6f6c" />
+        <field name="lab_name" value="Roasted Salted Peanuts" />
+        <field name="lab_ean" value="2000000000633" />
+        <field name="lab_brand" value="Demo Trail Snacks" />
+        <field name="lab_quantity" value="200 g" />
+      </record>
+      <record id="0a0e9499-0acf-5eef-964a-b6541d2418d1">
+        <field name="lab_productid" value="0a0e9499-0acf-5eef-964a-b6541d2418d1" />
+        <field name="lab_name" value="Roasted Cashews" />
+        <field name="lab_ean" value="2000000000640" />
+        <field name="lab_brand" value="Demo Trail Snacks" />
+        <field name="lab_quantity" value="150 g" />
+      </record>
+      <record id="a3cfaa93-3bfb-567e-8c89-6cd1fa0a0671">
+        <field name="lab_productid" value="a3cfaa93-3bfb-567e-8c89-6cd1fa0a0671" />
+        <field name="lab_name" value="Mixed Nuts &amp; Raisins" />
+        <field name="lab_ean" value="2000000000657" />
+        <field name="lab_brand" value="Demo Trail Snacks" />
+        <field name="lab_quantity" value="200 g" />
+      </record>
+      <record id="c37d8f07-f6da-5f73-9f31-9416a391dc82">
+        <field name="lab_productid" value="c37d8f07-f6da-5f73-9f31-9416a391dc82" />
+        <field name="lab_name" value="Milk Chocolate Bar" />
+        <field name="lab_ean" value="2000000000664" />
+        <field name="lab_brand" value="Demo Trail Snacks" />
+        <field name="lab_quantity" value="100 g" />
+      </record>
+      <record id="719f4775-631a-55fa-9613-743fcc5dd5b8">
+        <field name="lab_productid" value="719f4775-631a-55fa-9613-743fcc5dd5b8" />
+        <field name="lab_name" value="Dark Chocolate Bar" />
+        <field name="lab_ean" value="2000000000671" />
+        <field name="lab_brand" value="Demo Trail Snacks" />
+        <field name="lab_quantity" value="100 g" />
+      </record>
+      <record id="99f462f4-bc7d-546b-96dd-7cfa7c01a08b">
+        <field name="lab_productid" value="99f462f4-bc7d-546b-96dd-7cfa7c01a08b" />
+        <field name="lab_name" value="Oat &amp; Honey Snack Bars" />
+        <field name="lab_ean" value="2000000000688" />
+        <field name="lab_brand" value="Demo Trail Snacks" />
+        <field name="lab_quantity" value="6 x 30 g" />
+      </record>
+      <record id="6e8dfdc6-55c1-5192-9dce-71b0053cbfa2">
+        <field name="lab_productid" value="6e8dfdc6-55c1-5192-9dce-71b0053cbfa2" />
+        <field name="lab_name" value="Cheese Crackers" />
+        <field name="lab_ean" value="2000000000695" />
+        <field name="lab_brand" value="Demo Trail Snacks" />
+        <field name="lab_quantity" value="200 g" />
+      </record>
+      <record id="db795490-bdba-5b3a-95e7-c1f66ef4d62b">
+        <field name="lab_productid" value="db795490-bdba-5b3a-95e7-c1f66ef4d62b" />
+        <field name="lab_name" value="Dried Mango Slices" />
+        <field name="lab_ean" value="2000000000701" />
+        <field name="lab_brand" value="Demo Trail Snacks" />
+        <field name="lab_quantity" value="100 g" />
+      </record>
+      <record id="6087f52a-ab72-55b2-9d42-647cdb7da377">
+        <field name="lab_productid" value="6087f52a-ab72-55b2-9d42-647cdb7da377" />
+        <field name="lab_name" value="Extra Virgin Olive Oil" />
+        <field name="lab_ean" value="2000000000718" />
+        <field name="lab_brand" value="Demo Kitchen Craft" />
+        <field name="lab_quantity" value="500 ml" />
+      </record>
+      <record id="fff28246-3ddc-5d9e-a948-a420d349c0d6">
+        <field name="lab_productid" value="fff28246-3ddc-5d9e-a948-a420d349c0d6" />
+        <field name="lab_name" value="Sunflower Oil" />
+        <field name="lab_ean" value="2000000000725" />
+        <field name="lab_brand" value="Demo Kitchen Craft" />
+        <field name="lab_quantity" value="1 L" />
+      </record>
+      <record id="a1cb5c49-95b0-529d-986f-1c388a87b51b">
+        <field name="lab_productid" value="a1cb5c49-95b0-529d-986f-1c388a87b51b" />
+        <field name="lab_name" value="Balsamic Vinegar" />
+        <field name="lab_ean" value="2000000000732" />
+        <field name="lab_brand" value="Demo Kitchen Craft" />
+        <field name="lab_quantity" value="250 ml" />
+      </record>
+      <record id="0ccd520b-130a-54f7-963f-a14ea7c639af">
+        <field name="lab_productid" value="0ccd520b-130a-54f7-963f-a14ea7c639af" />
+        <field name="lab_name" value="Tomato Ketchup" />
+        <field name="lab_ean" value="2000000000749" />
+        <field name="lab_brand" value="Demo Kitchen Craft" />
+        <field name="lab_quantity" value="500 g" />
+      </record>
+      <record id="df3376f9-a1a6-5d57-85b4-468b83c2a7ae">
+        <field name="lab_productid" value="df3376f9-a1a6-5d57-85b4-468b83c2a7ae" />
+        <field name="lab_name" value="Classic Mayonnaise" />
+        <field name="lab_ean" value="2000000000756" />
+        <field name="lab_brand" value="Demo Kitchen Craft" />
+        <field name="lab_quantity" value="450 ml" />
+      </record>
+      <record id="82eec66d-3aef-5d10-b0b1-89e0246f92fd">
+        <field name="lab_productid" value="82eec66d-3aef-5d10-b0b1-89e0246f92fd" />
+        <field name="lab_name" value="Dijon Mustard" />
+        <field name="lab_ean" value="2000000000763" />
+        <field name="lab_brand" value="Demo Kitchen Craft" />
+        <field name="lab_quantity" value="200 g" />
+      </record>
+      <record id="7a762020-8b3f-5d0d-b963-74a58f64d9e5">
+        <field name="lab_productid" value="7a762020-8b3f-5d0d-b963-74a58f64d9e5" />
+        <field name="lab_name" value="Light Soy Sauce" />
+        <field name="lab_ean" value="2000000000770" />
+        <field name="lab_brand" value="Demo Kitchen Craft" />
+        <field name="lab_quantity" value="150 ml" />
+      </record>
+      <record id="bdc13028-43f5-56b2-889b-60fc639f8817">
+        <field name="lab_productid" value="bdc13028-43f5-56b2-889b-60fc639f8817" />
+        <field name="lab_name" value="Basil Pesto" />
+        <field name="lab_ean" value="2000000000787" />
+        <field name="lab_brand" value="Demo Kitchen Craft" />
+        <field name="lab_quantity" value="190 g" />
+      </record>
+      <record id="1fdb5364-009f-50e4-891c-0b364b46f0fa">
+        <field name="lab_productid" value="1fdb5364-009f-50e4-891c-0b364b46f0fa" />
+        <field name="lab_name" value="Mild Curry Sauce" />
+        <field name="lab_ean" value="2000000000794" />
+        <field name="lab_brand" value="Demo Kitchen Craft" />
+        <field name="lab_quantity" value="500 g" />
+      </record>
+      <record id="bbde3b77-f93f-5ea8-8c4e-b900b5f1801c">
+        <field name="lab_productid" value="bbde3b77-f93f-5ea8-8c4e-b900b5f1801c" />
+        <field name="lab_name" value="Tomato &amp; Basil Pasta Sauce" />
+        <field name="lab_ean" value="2000000000800" />
+        <field name="lab_brand" value="Demo Kitchen Craft" />
+        <field name="lab_quantity" value="500 g" />
+      </record>
+      <record id="68452a7d-e87f-5475-8814-feb414e56da2">
+        <field name="lab_productid" value="68452a7d-e87f-5475-8814-feb414e56da2" />
+        <field name="lab_name" value="Gala Apples" />
+        <field name="lab_ean" value="2000000000817" />
+        <field name="lab_brand" value="Demo Harvest Fresh" />
+        <field name="lab_quantity" value="6 pack" />
+      </record>
+      <record id="60322c56-c3fa-54ba-9a4e-c694536df012">
+        <field name="lab_productid" value="60322c56-c3fa-54ba-9a4e-c694536df012" />
+        <field name="lab_name" value="Bananas" />
+        <field name="lab_ean" value="2000000000824" />
+        <field name="lab_brand" value="Demo Harvest Fresh" />
+        <field name="lab_quantity" value="1 kg" />
+      </record>
+      <record id="5f68a583-65a5-5569-9a0e-ac830eade728">
+        <field name="lab_productid" value="5f68a583-65a5-5569-9a0e-ac830eade728" />
+        <field name="lab_name" value="Conference Pears" />
+        <field name="lab_ean" value="2000000000831" />
+        <field name="lab_brand" value="Demo Harvest Fresh" />
+        <field name="lab_quantity" value="4 pack" />
+      </record>
+      <record id="6ed6a8aa-0735-5912-9b19-7b8658a4dfce">
+        <field name="lab_productid" value="6ed6a8aa-0735-5912-9b19-7b8658a4dfce" />
+        <field name="lab_name" value="Easy Peel Clementines" />
+        <field name="lab_ean" value="2000000000848" />
+        <field name="lab_brand" value="Demo Harvest Fresh" />
+        <field name="lab_quantity" value="600 g" />
+      </record>
+      <record id="46863800-02f9-5a60-b7df-22a0487b9af5">
+        <field name="lab_productid" value="46863800-02f9-5a60-b7df-22a0487b9af5" />
+        <field name="lab_name" value="Blueberries" />
+        <field name="lab_ean" value="2000000000855" />
+        <field name="lab_brand" value="Demo Harvest Fresh" />
+        <field name="lab_quantity" value="150 g" />
+      </record>
+      <record id="9fd2e320-5351-516a-bc6b-3dd20704d9ed">
+        <field name="lab_productid" value="9fd2e320-5351-516a-bc6b-3dd20704d9ed" />
+        <field name="lab_name" value="Carrots" />
+        <field name="lab_ean" value="2000000000862" />
+        <field name="lab_brand" value="Demo Harvest Fresh" />
+        <field name="lab_quantity" value="1 kg" />
+      </record>
+      <record id="a97a0ff9-cde3-5a79-8db0-0e25c6a9ede5">
+        <field name="lab_productid" value="a97a0ff9-cde3-5a79-8db0-0e25c6a9ede5" />
+        <field name="lab_name" value="Baking Potatoes" />
+        <field name="lab_ean" value="2000000000879" />
+        <field name="lab_brand" value="Demo Harvest Fresh" />
+        <field name="lab_quantity" value="2.5 kg" />
+      </record>
+      <record id="c7ba1e3c-f794-5b17-8f3e-b0aa98338150">
+        <field name="lab_productid" value="c7ba1e3c-f794-5b17-8f3e-b0aa98338150" />
+        <field name="lab_name" value="Cherry Tomatoes" />
+        <field name="lab_ean" value="2000000000886" />
+        <field name="lab_brand" value="Demo Harvest Fresh" />
+        <field name="lab_quantity" value="250 g" />
+      </record>
+      <record id="67a1bf44-ce22-5ffe-8bf5-dfa46c911861">
+        <field name="lab_productid" value="67a1bf44-ce22-5ffe-8bf5-dfa46c911861" />
+        <field name="lab_name" value="Baby Spinach" />
+        <field name="lab_ean" value="2000000000893" />
+        <field name="lab_brand" value="Demo Harvest Fresh" />
+        <field name="lab_quantity" value="200 g" />
+      </record>
+      <record id="92d0b70c-89e8-542c-a12c-e8f3022f7a63">
+        <field name="lab_productid" value="92d0b70c-89e8-542c-a12c-e8f3022f7a63" />
+        <field name="lab_name" value="Mixed Bell Peppers" />
+        <field name="lab_ean" value="2000000000909" />
+        <field name="lab_brand" value="Demo Harvest Fresh" />
+        <field name="lab_quantity" value="3 pack" />
+      </record>
+      <record id="cfe7c510-a38b-5a5e-899b-31adfd7e1c36">
+        <field name="lab_productid" value="cfe7c510-a38b-5a5e-899b-31adfd7e1c36" />
+        <field name="lab_name" value="Frozen Garden Peas" />
+        <field name="lab_ean" value="2000000000916" />
+        <field name="lab_brand" value="Demo Frost Kitchen" />
+        <field name="lab_quantity" value="900 g" />
+      </record>
+      <record id="cb3980fc-a360-5c31-9cfc-7c99d9edaa74">
+        <field name="lab_productid" value="cb3980fc-a360-5c31-9cfc-7c99d9edaa74" />
+        <field name="lab_name" value="Frozen Sweetcorn" />
+        <field name="lab_ean" value="2000000000923" />
+        <field name="lab_brand" value="Demo Frost Kitchen" />
+        <field name="lab_quantity" value="900 g" />
+      </record>
+      <record id="7a87fbe5-48da-5546-aa71-22eac6aaecdb">
+        <field name="lab_productid" value="7a87fbe5-48da-5546-aa71-22eac6aaecdb" />
+        <field name="lab_name" value="Frozen Mixed Berries" />
+        <field name="lab_ean" value="2000000000930" />
+        <field name="lab_brand" value="Demo Frost Kitchen" />
+        <field name="lab_quantity" value="500 g" />
+      </record>
+      <record id="4537c278-aa7b-58d2-badf-24a50c836ed6">
+        <field name="lab_productid" value="4537c278-aa7b-58d2-badf-24a50c836ed6" />
+        <field name="lab_name" value="Frozen Broccoli Florets" />
+        <field name="lab_ean" value="2000000000947" />
+        <field name="lab_brand" value="Demo Frost Kitchen" />
+        <field name="lab_quantity" value="900 g" />
+      </record>
+      <record id="fa4f6010-d807-538f-9a56-a222d039a0ac">
+        <field name="lab_productid" value="fa4f6010-d807-538f-9a56-a222d039a0ac" />
+        <field name="lab_name" value="Frozen French Fries" />
+        <field name="lab_ean" value="2000000000954" />
+        <field name="lab_brand" value="Demo Frost Kitchen" />
+        <field name="lab_quantity" value="1 kg" />
+      </record>
+      <record id="cc3e7655-3b16-5a00-9377-f2c5caf30fa2">
+        <field name="lab_productid" value="cc3e7655-3b16-5a00-9377-f2c5caf30fa2" />
+        <field name="lab_name" value="Frozen Margherita Pizza" />
+        <field name="lab_ean" value="2000000000961" />
+        <field name="lab_brand" value="Demo Frost Kitchen" />
+        <field name="lab_quantity" value="300 g" />
+      </record>
+      <record id="7b8e3d38-6ca0-55a1-8a01-04d0bc9d03a6">
+        <field name="lab_productid" value="7b8e3d38-6ca0-55a1-8a01-04d0bc9d03a6" />
+        <field name="lab_name" value="Frozen Vegetable Lasagne" />
+        <field name="lab_ean" value="2000000000978" />
+        <field name="lab_brand" value="Demo Frost Kitchen" />
+        <field name="lab_quantity" value="400 g" />
+      </record>
+      <record id="805676b4-ac29-58b9-b238-664e1f31209d">
+        <field name="lab_productid" value="805676b4-ac29-58b9-b238-664e1f31209d" />
+        <field name="lab_name" value="Frozen Breaded Fish Fillets" />
+        <field name="lab_ean" value="2000000000985" />
+        <field name="lab_brand" value="Demo Frost Kitchen" />
+        <field name="lab_quantity" value="4 x 100 g" />
+      </record>
+      <record id="bfa53790-8530-5e10-bef8-369b7227896c">
+        <field name="lab_productid" value="bfa53790-8530-5e10-bef8-369b7227896c" />
+        <field name="lab_name" value="Vanilla Ice Cream" />
+        <field name="lab_ean" value="2000000000992" />
+        <field name="lab_brand" value="Demo Frost Kitchen" />
+        <field name="lab_quantity" value="1 L" />
+      </record>
+      <record id="9b0b631f-24fd-58b5-b1c3-f8c6d2870285">
+        <field name="lab_productid" value="9b0b631f-24fd-58b5-b1c3-f8c6d2870285" />
+        <field name="lab_name" value="Mango Sorbet" />
+        <field name="lab_ean" value="2000000001005" />
+        <field name="lab_brand" value="Demo Frost Kitchen" />
+        <field name="lab_quantity" value="500 ml" />
+      </record>
     </records>
     <m2mrelationships />
   </entity>
@@ -100,6 +800,1206 @@
         <field name="lab_reorderpoint" value="30" />
         <field name="lab_locationid" value="2592a040-83b7-464e-ac3e-faff2031398c" lookupentity="lab_warehouselocation" lookupentityname="Main Warehouse" />
         <field name="lab_productid" value="ff3dfa41-6780-44bb-8dfe-a6a48a5d10f9" lookupentity="lab_product" lookupentityname="Coca-Cola" />
+      </record>
+      <record id="5470a1aa-9046-5fe7-b791-624fd5e5feed">
+        <field name="lab_warehouseitemid" value="5470a1aa-9046-5fe7-b791-624fd5e5feed" />
+        <field name="lab_name" value="Whole Milk 1 L" />
+        <field name="lab_sku" value="FOD-006" />
+        <field name="lab_availablequantity" value="0" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="True" />
+        <field name="lab_unitprice" value="1.49" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="2592a040-83b7-464e-ac3e-faff2031398c" lookupentity="lab_warehouselocation" lookupentityname="Main Warehouse" />
+        <field name="lab_productid" value="42a5578a-8dcb-545b-9de3-3ba415bea1c1" lookupentity="lab_product" lookupentityname="Whole Milk" />
+      </record>
+      <record id="c174329f-db7a-50f0-a71c-b33793574ba3">
+        <field name="lab_warehouseitemid" value="c174329f-db7a-50f0-a71c-b33793574ba3" />
+        <field name="lab_name" value="Semi-Skimmed Milk 1 L" />
+        <field name="lab_sku" value="FOD-007" />
+        <field name="lab_availablequantity" value="5" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="True" />
+        <field name="lab_unitprice" value="1.39" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="f9c0881c-258f-42eb-b58b-84f2d37cda0e" lookupentity="lab_warehouselocation" lookupentityname="Overflow Storage" />
+        <field name="lab_productid" value="83f2abb4-e539-5019-9090-36ed02663cf5" lookupentity="lab_product" lookupentityname="Semi-Skimmed Milk" />
+      </record>
+      <record id="85400e45-ace0-5d84-ac4f-d5e5f209f2a2">
+        <field name="lab_warehouseitemid" value="85400e45-ace0-5d84-ac4f-d5e5f209f2a2" />
+        <field name="lab_name" value="Skimmed Milk 1 L" />
+        <field name="lab_sku" value="FOD-008" />
+        <field name="lab_availablequantity" value="15" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="True" />
+        <field name="lab_unitprice" value="1.29" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="2592a040-83b7-464e-ac3e-faff2031398c" lookupentity="lab_warehouselocation" lookupentityname="Main Warehouse" />
+        <field name="lab_productid" value="ac753b49-dd31-5130-9e74-233262d4b650" lookupentity="lab_product" lookupentityname="Skimmed Milk" />
+      </record>
+      <record id="2373c50c-e360-58d0-9cb4-275baf874b49">
+        <field name="lab_warehouseitemid" value="2373c50c-e360-58d0-9cb4-275baf874b49" />
+        <field name="lab_name" value="Natural Yogurt 500 g" />
+        <field name="lab_sku" value="FOD-009" />
+        <field name="lab_availablequantity" value="40" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="True" />
+        <field name="lab_unitprice" value="1.89" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="f9c0881c-258f-42eb-b58b-84f2d37cda0e" lookupentity="lab_warehouselocation" lookupentityname="Overflow Storage" />
+        <field name="lab_productid" value="cab918a7-c187-5094-ad56-d3830641fa5c" lookupentity="lab_product" lookupentityname="Natural Yogurt" />
+      </record>
+      <record id="f7f5139d-b9b4-59d5-b887-5d8798b011b1">
+        <field name="lab_warehouseitemid" value="f7f5139d-b9b4-59d5-b887-5d8798b011b1" />
+        <field name="lab_name" value="Greek Style Yogurt 450 g" />
+        <field name="lab_sku" value="FOD-010" />
+        <field name="lab_availablequantity" value="80" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="True" />
+        <field name="lab_unitprice" value="2.49" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="2592a040-83b7-464e-ac3e-faff2031398c" lookupentity="lab_warehouselocation" lookupentityname="Main Warehouse" />
+        <field name="lab_productid" value="9d453991-12b5-5de1-b1f6-fa41ef5af5b8" lookupentity="lab_product" lookupentityname="Greek Style Yogurt" />
+      </record>
+      <record id="cae3e933-30f3-56d8-9340-43847b9b6ba3">
+        <field name="lab_warehouseitemid" value="cae3e933-30f3-56d8-9340-43847b9b6ba3" />
+        <field name="lab_name" value="Strawberry Yogurt 4 x 125 g" />
+        <field name="lab_sku" value="FOD-011" />
+        <field name="lab_availablequantity" value="120" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="True" />
+        <field name="lab_unitprice" value="2.29" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="f9c0881c-258f-42eb-b58b-84f2d37cda0e" lookupentity="lab_warehouselocation" lookupentityname="Overflow Storage" />
+        <field name="lab_productid" value="3d6b21d8-8b06-5441-84db-7ee6da852e63" lookupentity="lab_product" lookupentityname="Strawberry Yogurt" />
+      </record>
+      <record id="7fb28cc0-2d5a-59cc-999a-6d848769ea59">
+        <field name="lab_warehouseitemid" value="7fb28cc0-2d5a-59cc-999a-6d848769ea59" />
+        <field name="lab_name" value="Salted Butter 250 g" />
+        <field name="lab_sku" value="FOD-012" />
+        <field name="lab_availablequantity" value="200" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="True" />
+        <field name="lab_unitprice" value="2.79" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="2592a040-83b7-464e-ac3e-faff2031398c" lookupentity="lab_warehouselocation" lookupentityname="Main Warehouse" />
+        <field name="lab_productid" value="56d31709-0993-54a9-82f6-296b9960496d" lookupentity="lab_product" lookupentityname="Salted Butter" />
+      </record>
+      <record id="8f3c8e9a-153b-5913-9b85-6b4f8e7e2fd1">
+        <field name="lab_warehouseitemid" value="8f3c8e9a-153b-5913-9b85-6b4f8e7e2fd1" />
+        <field name="lab_name" value="Mature Cheddar 300 g" />
+        <field name="lab_sku" value="FOD-013" />
+        <field name="lab_availablequantity" value="60" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="True" />
+        <field name="lab_unitprice" value="3.49" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="f9c0881c-258f-42eb-b58b-84f2d37cda0e" lookupentity="lab_warehouselocation" lookupentityname="Overflow Storage" />
+        <field name="lab_productid" value="8543e69b-9da1-5a2f-91d2-70805fa2566e" lookupentity="lab_product" lookupentityname="Mature Cheddar" />
+      </record>
+      <record id="842725eb-f1a8-5b50-bbcd-e021dff9063d">
+        <field name="lab_warehouseitemid" value="842725eb-f1a8-5b50-bbcd-e021dff9063d" />
+        <field name="lab_name" value="Mozzarella 125 g" />
+        <field name="lab_sku" value="FOD-014" />
+        <field name="lab_availablequantity" value="25" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="True" />
+        <field name="lab_unitprice" value="1.19" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="2592a040-83b7-464e-ac3e-faff2031398c" lookupentity="lab_warehouselocation" lookupentityname="Main Warehouse" />
+        <field name="lab_productid" value="704c96e2-2537-53ff-a38a-e3f12ad5654b" lookupentity="lab_product" lookupentityname="Mozzarella" />
+      </record>
+      <record id="7f377fcc-f454-5dd0-a846-ba0a32d8c130">
+        <field name="lab_warehouseitemid" value="7f377fcc-f454-5dd0-a846-ba0a32d8c130" />
+        <field name="lab_name" value="Cottage Cheese 200 g" />
+        <field name="lab_sku" value="FOD-015" />
+        <field name="lab_availablequantity" value="100" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="True" />
+        <field name="lab_unitprice" value="1.59" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="f9c0881c-258f-42eb-b58b-84f2d37cda0e" lookupentity="lab_warehouselocation" lookupentityname="Overflow Storage" />
+        <field name="lab_productid" value="3de759fd-06f7-5ab2-817c-77afe33cf498" lookupentity="lab_product" lookupentityname="Cottage Cheese" />
+      </record>
+      <record id="9f8a5f91-7389-541e-ba34-c537b84fda77">
+        <field name="lab_warehouseitemid" value="9f8a5f91-7389-541e-ba34-c537b84fda77" />
+        <field name="lab_name" value="White Sandwich Bread 800 g" />
+        <field name="lab_sku" value="FOD-016" />
+        <field name="lab_availablequantity" value="0" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="True" />
+        <field name="lab_unitprice" value="1.69" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="2592a040-83b7-464e-ac3e-faff2031398c" lookupentity="lab_warehouselocation" lookupentityname="Main Warehouse" />
+        <field name="lab_productid" value="c155340b-9c19-5b54-a303-37e2357ec113" lookupentity="lab_product" lookupentityname="White Sandwich Bread" />
+      </record>
+      <record id="5899ff6a-06b8-5d04-8462-d70d1d374fe1">
+        <field name="lab_warehouseitemid" value="5899ff6a-06b8-5d04-8462-d70d1d374fe1" />
+        <field name="lab_name" value="Wholemeal Bread 800 g" />
+        <field name="lab_sku" value="FOD-017" />
+        <field name="lab_availablequantity" value="5" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="True" />
+        <field name="lab_unitprice" value="1.89" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="f9c0881c-258f-42eb-b58b-84f2d37cda0e" lookupentity="lab_warehouselocation" lookupentityname="Overflow Storage" />
+        <field name="lab_productid" value="f50b6c3e-88a1-51ff-a46d-b9af1aad60cf" lookupentity="lab_product" lookupentityname="Wholemeal Bread" />
+      </record>
+      <record id="bf59ef2d-c6e6-5b93-9679-b3d8e2931f8d">
+        <field name="lab_warehouseitemid" value="bf59ef2d-c6e6-5b93-9679-b3d8e2931f8d" />
+        <field name="lab_name" value="Sourdough Loaf 500 g" />
+        <field name="lab_sku" value="FOD-018" />
+        <field name="lab_availablequantity" value="15" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="True" />
+        <field name="lab_unitprice" value="2.99" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="2592a040-83b7-464e-ac3e-faff2031398c" lookupentity="lab_warehouselocation" lookupentityname="Main Warehouse" />
+        <field name="lab_productid" value="ed633860-92ca-5564-b767-505f5045b51e" lookupentity="lab_product" lookupentityname="Sourdough Loaf" />
+      </record>
+      <record id="f85aeb02-14d1-5948-8a90-8faf3cd86c6b">
+        <field name="lab_warehouseitemid" value="f85aeb02-14d1-5948-8a90-8faf3cd86c6b" />
+        <field name="lab_name" value="Plain Bagels 5 x 85 g" />
+        <field name="lab_sku" value="FOD-019" />
+        <field name="lab_availablequantity" value="40" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="True" />
+        <field name="lab_unitprice" value="1.99" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="f9c0881c-258f-42eb-b58b-84f2d37cda0e" lookupentity="lab_warehouselocation" lookupentityname="Overflow Storage" />
+        <field name="lab_productid" value="5c08087b-3d51-5728-b2df-eff645e6cb1e" lookupentity="lab_product" lookupentityname="Plain Bagels" />
+      </record>
+      <record id="33921ccf-92b8-55fc-87c4-0ed384e452ae">
+        <field name="lab_warehouseitemid" value="33921ccf-92b8-55fc-87c4-0ed384e452ae" />
+        <field name="lab_name" value="Butter Croissants 4 x 55 g" />
+        <field name="lab_sku" value="FOD-020" />
+        <field name="lab_availablequantity" value="80" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="True" />
+        <field name="lab_unitprice" value="2.49" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="2592a040-83b7-464e-ac3e-faff2031398c" lookupentity="lab_warehouselocation" lookupentityname="Main Warehouse" />
+        <field name="lab_productid" value="761e7fec-45a0-53ba-bbc5-859e5af58afe" lookupentity="lab_product" lookupentityname="Butter Croissants" />
+      </record>
+      <record id="8201db27-fe80-5017-b500-f19c7bf0f746">
+        <field name="lab_warehouseitemid" value="8201db27-fe80-5017-b500-f19c7bf0f746" />
+        <field name="lab_name" value="Wholemeal Pita Bread 6 x 60 g" />
+        <field name="lab_sku" value="FOD-021" />
+        <field name="lab_availablequantity" value="120" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="True" />
+        <field name="lab_unitprice" value="1.59" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="f9c0881c-258f-42eb-b58b-84f2d37cda0e" lookupentity="lab_warehouselocation" lookupentityname="Overflow Storage" />
+        <field name="lab_productid" value="922551c6-f696-59d6-b4bf-2cfe476a1a71" lookupentity="lab_product" lookupentityname="Wholemeal Pita Bread" />
+      </record>
+      <record id="792f4f13-11cd-5429-99a9-4869736b0601">
+        <field name="lab_warehouseitemid" value="792f4f13-11cd-5429-99a9-4869736b0601" />
+        <field name="lab_name" value="Flour Tortillas 8 x 40 g" />
+        <field name="lab_sku" value="FOD-022" />
+        <field name="lab_availablequantity" value="200" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="True" />
+        <field name="lab_unitprice" value="1.79" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="2592a040-83b7-464e-ac3e-faff2031398c" lookupentity="lab_warehouselocation" lookupentityname="Main Warehouse" />
+        <field name="lab_productid" value="05da217f-7777-5fd5-982c-7b1441109f75" lookupentity="lab_product" lookupentityname="Flour Tortillas" />
+      </record>
+      <record id="9247a9e2-99d0-584f-a65c-8c9506f15fb3">
+        <field name="lab_warehouseitemid" value="9247a9e2-99d0-584f-a65c-8c9506f15fb3" />
+        <field name="lab_name" value="Sesame Burger Buns 4 x 65 g" />
+        <field name="lab_sku" value="FOD-023" />
+        <field name="lab_availablequantity" value="60" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="True" />
+        <field name="lab_unitprice" value="1.49" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="f9c0881c-258f-42eb-b58b-84f2d37cda0e" lookupentity="lab_warehouselocation" lookupentityname="Overflow Storage" />
+        <field name="lab_productid" value="5f3a8719-6599-5a37-aa17-acbcddfefa28" lookupentity="lab_product" lookupentityname="Sesame Burger Buns" />
+      </record>
+      <record id="f0d6d834-e6a9-5ca8-ad4f-4981b7328601">
+        <field name="lab_warehouseitemid" value="f0d6d834-e6a9-5ca8-ad4f-4981b7328601" />
+        <field name="lab_name" value="English Muffins 4 x 70 g" />
+        <field name="lab_sku" value="FOD-024" />
+        <field name="lab_availablequantity" value="25" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="True" />
+        <field name="lab_unitprice" value="1.69" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="2592a040-83b7-464e-ac3e-faff2031398c" lookupentity="lab_warehouselocation" lookupentityname="Main Warehouse" />
+        <field name="lab_productid" value="6ebbb0e8-6294-543d-8a04-be17d5662e0f" lookupentity="lab_product" lookupentityname="English Muffins" />
+      </record>
+      <record id="2dac6f46-a33a-5725-a0e9-3562a7e83a4c">
+        <field name="lab_warehouseitemid" value="2dac6f46-a33a-5725-a0e9-3562a7e83a4c" />
+        <field name="lab_name" value="Cinnamon Raisin Bread 400 g" />
+        <field name="lab_sku" value="FOD-025" />
+        <field name="lab_availablequantity" value="100" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="True" />
+        <field name="lab_unitprice" value="2.29" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="f9c0881c-258f-42eb-b58b-84f2d37cda0e" lookupentity="lab_warehouselocation" lookupentityname="Overflow Storage" />
+        <field name="lab_productid" value="382a9870-01df-52ac-afef-f39d087ca5bf" lookupentity="lab_product" lookupentityname="Cinnamon Raisin Bread" />
+      </record>
+      <record id="1fb6350d-743c-5dc8-abfc-8fdd5e6fdbe7">
+        <field name="lab_warehouseitemid" value="1fb6350d-743c-5dc8-abfc-8fdd5e6fdbe7" />
+        <field name="lab_name" value="Spaghetti 500 g" />
+        <field name="lab_sku" value="FOD-026" />
+        <field name="lab_availablequantity" value="0" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="False" />
+        <field name="lab_unitprice" value="1.09" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="2592a040-83b7-464e-ac3e-faff2031398c" lookupentity="lab_warehouselocation" lookupentityname="Main Warehouse" />
+        <field name="lab_productid" value="760c3895-88c3-587e-9f4d-dffb71d923fc" lookupentity="lab_product" lookupentityname="Spaghetti" />
+      </record>
+      <record id="668c601a-0d54-556d-9418-c7b77a268fbf">
+        <field name="lab_warehouseitemid" value="668c601a-0d54-556d-9418-c7b77a268fbf" />
+        <field name="lab_name" value="Penne Rigate 500 g" />
+        <field name="lab_sku" value="FOD-027" />
+        <field name="lab_availablequantity" value="5" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="False" />
+        <field name="lab_unitprice" value="1.09" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="f9c0881c-258f-42eb-b58b-84f2d37cda0e" lookupentity="lab_warehouselocation" lookupentityname="Overflow Storage" />
+        <field name="lab_productid" value="fd6663ff-0ffe-5b9d-b8d3-d3f073061699" lookupentity="lab_product" lookupentityname="Penne Rigate" />
+      </record>
+      <record id="8d2baf1e-3759-5607-aa2b-57de29a52372">
+        <field name="lab_warehouseitemid" value="8d2baf1e-3759-5607-aa2b-57de29a52372" />
+        <field name="lab_name" value="Wholewheat Fusilli 500 g" />
+        <field name="lab_sku" value="FOD-028" />
+        <field name="lab_availablequantity" value="15" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="False" />
+        <field name="lab_unitprice" value="1.39" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="2592a040-83b7-464e-ac3e-faff2031398c" lookupentity="lab_warehouselocation" lookupentityname="Main Warehouse" />
+        <field name="lab_productid" value="d52e5da0-3cf8-5136-9dad-ef987acb697b" lookupentity="lab_product" lookupentityname="Wholewheat Fusilli" />
+      </record>
+      <record id="d17fad22-2723-52ec-b8ab-7f4cd5706cb6">
+        <field name="lab_warehouseitemid" value="d17fad22-2723-52ec-b8ab-7f4cd5706cb6" />
+        <field name="lab_name" value="Basmati Rice 1 kg" />
+        <field name="lab_sku" value="FOD-029" />
+        <field name="lab_availablequantity" value="40" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="False" />
+        <field name="lab_unitprice" value="2.49" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="f9c0881c-258f-42eb-b58b-84f2d37cda0e" lookupentity="lab_warehouselocation" lookupentityname="Overflow Storage" />
+        <field name="lab_productid" value="c455fa09-c950-5681-99a0-afb9c98e02db" lookupentity="lab_product" lookupentityname="Basmati Rice" />
+      </record>
+      <record id="889dfbe9-ff62-5082-a131-666bedf300e8">
+        <field name="lab_warehouseitemid" value="889dfbe9-ff62-5082-a131-666bedf300e8" />
+        <field name="lab_name" value="Brown Rice 1 kg" />
+        <field name="lab_sku" value="FOD-030" />
+        <field name="lab_availablequantity" value="80" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="False" />
+        <field name="lab_unitprice" value="2.19" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="2592a040-83b7-464e-ac3e-faff2031398c" lookupentity="lab_warehouselocation" lookupentityname="Main Warehouse" />
+        <field name="lab_productid" value="eaf1fe5a-89ce-5866-8539-dee9c1faf16e" lookupentity="lab_product" lookupentityname="Brown Rice" />
+      </record>
+      <record id="7a15acdb-e002-5728-9ad4-cb9d5465262f">
+        <field name="lab_warehouseitemid" value="7a15acdb-e002-5728-9ad4-cb9d5465262f" />
+        <field name="lab_name" value="Couscous 500 g" />
+        <field name="lab_sku" value="FOD-031" />
+        <field name="lab_availablequantity" value="120" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="False" />
+        <field name="lab_unitprice" value="1.59" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="f9c0881c-258f-42eb-b58b-84f2d37cda0e" lookupentity="lab_warehouselocation" lookupentityname="Overflow Storage" />
+        <field name="lab_productid" value="d4c0b9e7-9e34-5b70-a5fc-7db2038c5a38" lookupentity="lab_product" lookupentityname="Couscous" />
+      </record>
+      <record id="019eb73a-e997-57a0-a6fc-ec6a09d8e0dc">
+        <field name="lab_warehouseitemid" value="019eb73a-e997-57a0-a6fc-ec6a09d8e0dc" />
+        <field name="lab_name" value="Quinoa 300 g" />
+        <field name="lab_sku" value="FOD-032" />
+        <field name="lab_availablequantity" value="200" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="False" />
+        <field name="lab_unitprice" value="2.99" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="2592a040-83b7-464e-ac3e-faff2031398c" lookupentity="lab_warehouselocation" lookupentityname="Main Warehouse" />
+        <field name="lab_productid" value="688654aa-1553-53d1-8f98-1c3f77a1a1ce" lookupentity="lab_product" lookupentityname="Quinoa" />
+      </record>
+      <record id="2f6f0d09-1d90-56a7-80bd-1eb02155ee2d">
+        <field name="lab_warehouseitemid" value="2f6f0d09-1d90-56a7-80bd-1eb02155ee2d" />
+        <field name="lab_name" value="Rolled Oats 1 kg" />
+        <field name="lab_sku" value="FOD-033" />
+        <field name="lab_availablequantity" value="60" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="False" />
+        <field name="lab_unitprice" value="1.79" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="f9c0881c-258f-42eb-b58b-84f2d37cda0e" lookupentity="lab_warehouselocation" lookupentityname="Overflow Storage" />
+        <field name="lab_productid" value="784db4f3-946f-58a2-b5fd-f3cd41653548" lookupentity="lab_product" lookupentityname="Rolled Oats" />
+      </record>
+      <record id="439577d7-03f1-5c7c-bcda-db230dacfdfa">
+        <field name="lab_warehouseitemid" value="439577d7-03f1-5c7c-bcda-db230dacfdfa" />
+        <field name="lab_name" value="Plain Flour 1.5 kg" />
+        <field name="lab_sku" value="FOD-034" />
+        <field name="lab_availablequantity" value="25" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="False" />
+        <field name="lab_unitprice" value="1.29" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="2592a040-83b7-464e-ac3e-faff2031398c" lookupentity="lab_warehouselocation" lookupentityname="Main Warehouse" />
+        <field name="lab_productid" value="4e73df8d-67d8-5e4c-994e-e0252fd96291" lookupentity="lab_product" lookupentityname="Plain Flour" />
+      </record>
+      <record id="d219cf40-8f4d-5d53-b762-98dfc062ceb1">
+        <field name="lab_warehouseitemid" value="d219cf40-8f4d-5d53-b762-98dfc062ceb1" />
+        <field name="lab_name" value="Cornmeal 500 g" />
+        <field name="lab_sku" value="FOD-035" />
+        <field name="lab_availablequantity" value="100" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="False" />
+        <field name="lab_unitprice" value="1.49" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="f9c0881c-258f-42eb-b58b-84f2d37cda0e" lookupentity="lab_warehouselocation" lookupentityname="Overflow Storage" />
+        <field name="lab_productid" value="9cb2da61-7076-5c34-96d2-e9db475f70f8" lookupentity="lab_product" lookupentityname="Cornmeal" />
+      </record>
+      <record id="fb701fb4-504c-54f4-9dae-e30c373598c9">
+        <field name="lab_warehouseitemid" value="fb701fb4-504c-54f4-9dae-e30c373598c9" />
+        <field name="lab_name" value="Chopped Tomatoes 400 g" />
+        <field name="lab_sku" value="FOD-036" />
+        <field name="lab_availablequantity" value="0" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="False" />
+        <field name="lab_unitprice" value="0.89" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="2592a040-83b7-464e-ac3e-faff2031398c" lookupentity="lab_warehouselocation" lookupentityname="Main Warehouse" />
+        <field name="lab_productid" value="f1f6f323-140c-51ba-ba87-c65cdf1d61f9" lookupentity="lab_product" lookupentityname="Chopped Tomatoes" />
+      </record>
+      <record id="74deaa6b-44a6-57a9-b7ee-0f8124534930">
+        <field name="lab_warehouseitemid" value="74deaa6b-44a6-57a9-b7ee-0f8124534930" />
+        <field name="lab_name" value="Chickpeas in Water 400 g" />
+        <field name="lab_sku" value="FOD-037" />
+        <field name="lab_availablequantity" value="5" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="False" />
+        <field name="lab_unitprice" value="0.79" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="f9c0881c-258f-42eb-b58b-84f2d37cda0e" lookupentity="lab_warehouselocation" lookupentityname="Overflow Storage" />
+        <field name="lab_productid" value="efc54023-c9d2-5a58-91d8-e7cc3106cf11" lookupentity="lab_product" lookupentityname="Chickpeas in Water" />
+      </record>
+      <record id="0f9598d6-841b-5cd2-ae38-932cdb1dba5d">
+        <field name="lab_warehouseitemid" value="0f9598d6-841b-5cd2-ae38-932cdb1dba5d" />
+        <field name="lab_name" value="Red Kidney Beans 400 g" />
+        <field name="lab_sku" value="FOD-038" />
+        <field name="lab_availablequantity" value="15" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="False" />
+        <field name="lab_unitprice" value="0.79" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="2592a040-83b7-464e-ac3e-faff2031398c" lookupentity="lab_warehouselocation" lookupentityname="Main Warehouse" />
+        <field name="lab_productid" value="1e035a5f-9546-54e6-83ee-2f819bbe4299" lookupentity="lab_product" lookupentityname="Red Kidney Beans" />
+      </record>
+      <record id="48f79c2d-7647-563e-b53c-f4729faa056e">
+        <field name="lab_warehouseitemid" value="48f79c2d-7647-563e-b53c-f4729faa056e" />
+        <field name="lab_name" value="Sweetcorn 340 g" />
+        <field name="lab_sku" value="FOD-039" />
+        <field name="lab_availablequantity" value="40" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="False" />
+        <field name="lab_unitprice" value="0.99" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="f9c0881c-258f-42eb-b58b-84f2d37cda0e" lookupentity="lab_warehouselocation" lookupentityname="Overflow Storage" />
+        <field name="lab_productid" value="1a921ff5-3b42-5864-985a-5543c2359b3e" lookupentity="lab_product" lookupentityname="Sweetcorn" />
+      </record>
+      <record id="c3ef3fea-f575-5914-bc11-3766a1e2a1e5">
+        <field name="lab_warehouseitemid" value="c3ef3fea-f575-5914-bc11-3766a1e2a1e5" />
+        <field name="lab_name" value="Green Peas 400 g" />
+        <field name="lab_sku" value="FOD-040" />
+        <field name="lab_availablequantity" value="80" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="False" />
+        <field name="lab_unitprice" value="0.85" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="2592a040-83b7-464e-ac3e-faff2031398c" lookupentity="lab_warehouselocation" lookupentityname="Main Warehouse" />
+        <field name="lab_productid" value="6d5757c9-de1c-50aa-bdc5-38b81deee73b" lookupentity="lab_product" lookupentityname="Green Peas" />
+      </record>
+      <record id="787d05b5-9d00-5e55-9826-86515262ad91">
+        <field name="lab_warehouseitemid" value="787d05b5-9d00-5e55-9826-86515262ad91" />
+        <field name="lab_name" value="Tuna in Spring Water 145 g" />
+        <field name="lab_sku" value="FOD-041" />
+        <field name="lab_availablequantity" value="120" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="False" />
+        <field name="lab_unitprice" value="1.49" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="f9c0881c-258f-42eb-b58b-84f2d37cda0e" lookupentity="lab_warehouselocation" lookupentityname="Overflow Storage" />
+        <field name="lab_productid" value="63226b03-e1d0-572e-9615-e6b5ccddfcb8" lookupentity="lab_product" lookupentityname="Tuna in Spring Water" />
+      </record>
+      <record id="eb3347f5-2516-55ce-affc-b5713cdae6c8">
+        <field name="lab_warehouseitemid" value="eb3347f5-2516-55ce-affc-b5713cdae6c8" />
+        <field name="lab_name" value="Sardines in Olive Oil 120 g" />
+        <field name="lab_sku" value="FOD-042" />
+        <field name="lab_availablequantity" value="200" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="False" />
+        <field name="lab_unitprice" value="1.39" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="2592a040-83b7-464e-ac3e-faff2031398c" lookupentity="lab_warehouselocation" lookupentityname="Main Warehouse" />
+        <field name="lab_productid" value="84b899a6-1f59-5f54-a5ff-8c8328e616bd" lookupentity="lab_product" lookupentityname="Sardines in Olive Oil" />
+      </record>
+      <record id="fd2b930a-bdcf-50c1-b71c-52184c260fe6">
+        <field name="lab_warehouseitemid" value="fd2b930a-bdcf-50c1-b71c-52184c260fe6" />
+        <field name="lab_name" value="Cream of Tomato Soup 400 g" />
+        <field name="lab_sku" value="FOD-043" />
+        <field name="lab_availablequantity" value="60" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="False" />
+        <field name="lab_unitprice" value="1.19" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="f9c0881c-258f-42eb-b58b-84f2d37cda0e" lookupentity="lab_warehouselocation" lookupentityname="Overflow Storage" />
+        <field name="lab_productid" value="3c6caa64-bdf4-5369-a110-3f58d536861c" lookupentity="lab_product" lookupentityname="Cream of Tomato Soup" />
+      </record>
+      <record id="53f820cb-7403-54c9-8107-22b1c89d6b5b">
+        <field name="lab_warehouseitemid" value="53f820cb-7403-54c9-8107-22b1c89d6b5b" />
+        <field name="lab_name" value="Peach Slices in Juice 410 g" />
+        <field name="lab_sku" value="FOD-044" />
+        <field name="lab_availablequantity" value="25" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="False" />
+        <field name="lab_unitprice" value="1.29" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="2592a040-83b7-464e-ac3e-faff2031398c" lookupentity="lab_warehouselocation" lookupentityname="Main Warehouse" />
+        <field name="lab_productid" value="ff80f772-8d91-5100-893c-3c6ab238d9cb" lookupentity="lab_product" lookupentityname="Peach Slices in Juice" />
+      </record>
+      <record id="996af8a7-580e-5e2a-b106-11754fd036a7">
+        <field name="lab_warehouseitemid" value="996af8a7-580e-5e2a-b106-11754fd036a7" />
+        <field name="lab_name" value="Coconut Milk 400 ml" />
+        <field name="lab_sku" value="FOD-045" />
+        <field name="lab_availablequantity" value="100" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="False" />
+        <field name="lab_unitprice" value="1.59" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="f9c0881c-258f-42eb-b58b-84f2d37cda0e" lookupentity="lab_warehouselocation" lookupentityname="Overflow Storage" />
+        <field name="lab_productid" value="3edbdcc6-b742-5e38-b981-44f68916ff3f" lookupentity="lab_product" lookupentityname="Coconut Milk" />
+      </record>
+      <record id="624ad2e1-9652-5f33-afe8-b343808be4b5">
+        <field name="lab_warehouseitemid" value="624ad2e1-9652-5f33-afe8-b343808be4b5" />
+        <field name="lab_name" value="Smooth Peanut Butter 340 g" />
+        <field name="lab_sku" value="FOD-046" />
+        <field name="lab_availablequantity" value="0" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="False" />
+        <field name="lab_unitprice" value="2.19" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="2592a040-83b7-464e-ac3e-faff2031398c" lookupentity="lab_warehouselocation" lookupentityname="Main Warehouse" />
+        <field name="lab_productid" value="941aa2e1-ae74-5097-9462-c7d010835a8f" lookupentity="lab_product" lookupentityname="Smooth Peanut Butter" />
+      </record>
+      <record id="f35ec0d7-5e7b-571e-92f2-f92c8cccfe8c">
+        <field name="lab_warehouseitemid" value="f35ec0d7-5e7b-571e-92f2-f92c8cccfe8c" />
+        <field name="lab_name" value="Crunchy Almond Butter 170 g" />
+        <field name="lab_sku" value="FOD-047" />
+        <field name="lab_availablequantity" value="5" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="False" />
+        <field name="lab_unitprice" value="3.49" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="f9c0881c-258f-42eb-b58b-84f2d37cda0e" lookupentity="lab_warehouselocation" lookupentityname="Overflow Storage" />
+        <field name="lab_productid" value="b460b0f1-3929-56c8-82c2-26c4f06ee893" lookupentity="lab_product" lookupentityname="Crunchy Almond Butter" />
+      </record>
+      <record id="9f4f0d0d-5e50-542f-a84a-1c22cffd9ece">
+        <field name="lab_warehouseitemid" value="9f4f0d0d-5e50-542f-a84a-1c22cffd9ece" />
+        <field name="lab_name" value="Strawberry Jam 454 g" />
+        <field name="lab_sku" value="FOD-048" />
+        <field name="lab_availablequantity" value="15" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="False" />
+        <field name="lab_unitprice" value="1.79" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="2592a040-83b7-464e-ac3e-faff2031398c" lookupentity="lab_warehouselocation" lookupentityname="Main Warehouse" />
+        <field name="lab_productid" value="d3577e30-a8c0-5fe1-8b89-0084ab54f3b4" lookupentity="lab_product" lookupentityname="Strawberry Jam" />
+      </record>
+      <record id="dabdc4d2-cec9-5d81-bf44-ad562a8e3d8b">
+        <field name="lab_warehouseitemid" value="dabdc4d2-cec9-5d81-bf44-ad562a8e3d8b" />
+        <field name="lab_name" value="Orange Marmalade 454 g" />
+        <field name="lab_sku" value="FOD-049" />
+        <field name="lab_availablequantity" value="40" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="False" />
+        <field name="lab_unitprice" value="1.89" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="f9c0881c-258f-42eb-b58b-84f2d37cda0e" lookupentity="lab_warehouselocation" lookupentityname="Overflow Storage" />
+        <field name="lab_productid" value="e6a58a12-cb88-5ee9-9bf4-4c8bdaca662d" lookupentity="lab_product" lookupentityname="Orange Marmalade" />
+      </record>
+      <record id="07a4d49c-5c3f-5383-8579-0dfeef1ff3c7">
+        <field name="lab_warehouseitemid" value="07a4d49c-5c3f-5383-8579-0dfeef1ff3c7" />
+        <field name="lab_name" value="Wildflower Honey 340 g" />
+        <field name="lab_sku" value="FOD-050" />
+        <field name="lab_availablequantity" value="80" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="False" />
+        <field name="lab_unitprice" value="2.99" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="2592a040-83b7-464e-ac3e-faff2031398c" lookupentity="lab_warehouselocation" lookupentityname="Main Warehouse" />
+        <field name="lab_productid" value="a15a0d9c-8f7b-527f-8ee3-b67abf80a043" lookupentity="lab_product" lookupentityname="Wildflower Honey" />
+      </record>
+      <record id="e98fa65b-26c3-5722-9c29-806c174d9005">
+        <field name="lab_warehouseitemid" value="e98fa65b-26c3-5722-9c29-806c174d9005" />
+        <field name="lab_name" value="Maple Syrup 250 ml" />
+        <field name="lab_sku" value="FOD-051" />
+        <field name="lab_availablequantity" value="120" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="False" />
+        <field name="lab_unitprice" value="4.49" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="f9c0881c-258f-42eb-b58b-84f2d37cda0e" lookupentity="lab_warehouselocation" lookupentityname="Overflow Storage" />
+        <field name="lab_productid" value="022e3877-6916-5bc2-986c-368446d762a4" lookupentity="lab_product" lookupentityname="Maple Syrup" />
+      </record>
+      <record id="3871ba32-5e31-5477-9613-21c09c5b5b42">
+        <field name="lab_warehouseitemid" value="3871ba32-5e31-5477-9613-21c09c5b5b42" />
+        <field name="lab_name" value="Corn Flakes 500 g" />
+        <field name="lab_sku" value="FOD-052" />
+        <field name="lab_availablequantity" value="200" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="False" />
+        <field name="lab_unitprice" value="1.69" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="2592a040-83b7-464e-ac3e-faff2031398c" lookupentity="lab_warehouselocation" lookupentityname="Main Warehouse" />
+        <field name="lab_productid" value="77361644-d1bc-55af-9a6c-c6a2d855163a" lookupentity="lab_product" lookupentityname="Corn Flakes" />
+      </record>
+      <record id="4704df6a-717d-5f88-bc40-8d535dd06d13">
+        <field name="lab_warehouseitemid" value="4704df6a-717d-5f88-bc40-8d535dd06d13" />
+        <field name="lab_name" value="Fruit &amp; Nut Muesli 750 g" />
+        <field name="lab_sku" value="FOD-053" />
+        <field name="lab_availablequantity" value="60" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="False" />
+        <field name="lab_unitprice" value="2.79" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="f9c0881c-258f-42eb-b58b-84f2d37cda0e" lookupentity="lab_warehouselocation" lookupentityname="Overflow Storage" />
+        <field name="lab_productid" value="ed9b42b2-bb99-586d-a3ff-6a8d700ef19d" lookupentity="lab_product" lookupentityname="Fruit &amp; Nut Muesli" />
+      </record>
+      <record id="eb131db1-9949-57ab-ae43-3d99a2943c8a">
+        <field name="lab_warehouseitemid" value="eb131db1-9949-57ab-ae43-3d99a2943c8a" />
+        <field name="lab_name" value="Honey Oat Granola 500 g" />
+        <field name="lab_sku" value="FOD-054" />
+        <field name="lab_availablequantity" value="25" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="False" />
+        <field name="lab_unitprice" value="2.99" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="2592a040-83b7-464e-ac3e-faff2031398c" lookupentity="lab_warehouselocation" lookupentityname="Main Warehouse" />
+        <field name="lab_productid" value="efe7ba3f-1947-5dee-bba3-dcf891335949" lookupentity="lab_product" lookupentityname="Honey Oat Granola" />
+      </record>
+      <record id="dfe6c8e2-c23a-5e60-9300-c4607ca95f58">
+        <field name="lab_warehouseitemid" value="dfe6c8e2-c23a-5e60-9300-c4607ca95f58" />
+        <field name="lab_name" value="Chocolate Breakfast Hoops 375 g" />
+        <field name="lab_sku" value="FOD-055" />
+        <field name="lab_availablequantity" value="100" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="False" />
+        <field name="lab_unitprice" value="2.29" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="f9c0881c-258f-42eb-b58b-84f2d37cda0e" lookupentity="lab_warehouselocation" lookupentityname="Overflow Storage" />
+        <field name="lab_productid" value="5f10d3e3-37b9-5083-a007-89ce5afccb73" lookupentity="lab_product" lookupentityname="Chocolate Breakfast Hoops" />
+      </record>
+      <record id="98e6f8f5-ab25-5073-8769-4efcdad512a9">
+        <field name="lab_warehouseitemid" value="98e6f8f5-ab25-5073-8769-4efcdad512a9" />
+        <field name="lab_name" value="Still Spring Water 1.5 L" />
+        <field name="lab_sku" value="FOD-056" />
+        <field name="lab_availablequantity" value="0" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="False" />
+        <field name="lab_unitprice" value="0.59" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="2592a040-83b7-464e-ac3e-faff2031398c" lookupentity="lab_warehouselocation" lookupentityname="Main Warehouse" />
+        <field name="lab_productid" value="de96e1ed-ed1b-53f5-b07c-3a2c75ce24cc" lookupentity="lab_product" lookupentityname="Still Spring Water" />
+      </record>
+      <record id="fc1bb279-1b11-5ee5-86c9-1424fcb5f888">
+        <field name="lab_warehouseitemid" value="fc1bb279-1b11-5ee5-86c9-1424fcb5f888" />
+        <field name="lab_name" value="Sparkling Spring Water 1 L" />
+        <field name="lab_sku" value="FOD-057" />
+        <field name="lab_availablequantity" value="5" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="False" />
+        <field name="lab_unitprice" value="0.69" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="f9c0881c-258f-42eb-b58b-84f2d37cda0e" lookupentity="lab_warehouselocation" lookupentityname="Overflow Storage" />
+        <field name="lab_productid" value="4cf4756b-6688-5e9d-afdb-2b40625f52e8" lookupentity="lab_product" lookupentityname="Sparkling Spring Water" />
+      </record>
+      <record id="3ed6900a-6c49-5b8c-9826-9f2ce6ed2f85">
+        <field name="lab_warehouseitemid" value="3ed6900a-6c49-5b8c-9826-9f2ce6ed2f85" />
+        <field name="lab_name" value="Orange Juice from Concentrate 1 L" />
+        <field name="lab_sku" value="FOD-058" />
+        <field name="lab_availablequantity" value="15" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="False" />
+        <field name="lab_unitprice" value="1.59" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="2592a040-83b7-464e-ac3e-faff2031398c" lookupentity="lab_warehouselocation" lookupentityname="Main Warehouse" />
+        <field name="lab_productid" value="5754323c-9c45-545d-ab68-b9924e804993" lookupentity="lab_product" lookupentityname="Orange Juice from Concentrate" />
+      </record>
+      <record id="e1483ce8-ac8a-5b4a-873d-405bc52128ef">
+        <field name="lab_warehouseitemid" value="e1483ce8-ac8a-5b4a-873d-405bc52128ef" />
+        <field name="lab_name" value="Apple Juice from Concentrate 1 L" />
+        <field name="lab_sku" value="FOD-059" />
+        <field name="lab_availablequantity" value="40" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="False" />
+        <field name="lab_unitprice" value="1.49" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="f9c0881c-258f-42eb-b58b-84f2d37cda0e" lookupentity="lab_warehouselocation" lookupentityname="Overflow Storage" />
+        <field name="lab_productid" value="b60bfdfc-6fa9-5954-b7d4-c25069bb4635" lookupentity="lab_product" lookupentityname="Apple Juice from Concentrate" />
+      </record>
+      <record id="7bb9755a-3b3d-5b4d-9043-f5770a24dcf6">
+        <field name="lab_warehouseitemid" value="7bb9755a-3b3d-5b4d-9043-f5770a24dcf6" />
+        <field name="lab_name" value="Cranberry Juice Drink 1 L" />
+        <field name="lab_sku" value="FOD-060" />
+        <field name="lab_availablequantity" value="80" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="False" />
+        <field name="lab_unitprice" value="1.69" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="2592a040-83b7-464e-ac3e-faff2031398c" lookupentity="lab_warehouselocation" lookupentityname="Main Warehouse" />
+        <field name="lab_productid" value="81df871a-a588-5b7f-8765-91b4f76d1b67" lookupentity="lab_product" lookupentityname="Cranberry Juice Drink" />
+      </record>
+      <record id="5e8366a0-1300-5c5a-94e7-c54f4af02b65">
+        <field name="lab_warehouseitemid" value="5e8366a0-1300-5c5a-94e7-c54f4af02b65" />
+        <field name="lab_name" value="Lemonade 2 L" />
+        <field name="lab_sku" value="FOD-061" />
+        <field name="lab_availablequantity" value="120" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="False" />
+        <field name="lab_unitprice" value="0.99" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="f9c0881c-258f-42eb-b58b-84f2d37cda0e" lookupentity="lab_warehouselocation" lookupentityname="Overflow Storage" />
+        <field name="lab_productid" value="0cbf6326-c749-5acc-9bf4-3913d750b595" lookupentity="lab_product" lookupentityname="Lemonade" />
+      </record>
+      <record id="e4c681dc-6022-5f42-b475-ac0972047864">
+        <field name="lab_warehouseitemid" value="e4c681dc-6022-5f42-b475-ac0972047864" />
+        <field name="lab_name" value="Ginger Beer 330 ml" />
+        <field name="lab_sku" value="FOD-062" />
+        <field name="lab_availablequantity" value="200" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="False" />
+        <field name="lab_unitprice" value="0.89" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="2592a040-83b7-464e-ac3e-faff2031398c" lookupentity="lab_warehouselocation" lookupentityname="Main Warehouse" />
+        <field name="lab_productid" value="b7e51fd0-d9e4-5ff7-8dc6-29f34edaf93f" lookupentity="lab_product" lookupentityname="Ginger Beer" />
+      </record>
+      <record id="56db4475-f46a-59e8-b62d-a4b496fac925">
+        <field name="lab_warehouseitemid" value="56db4475-f46a-59e8-b62d-a4b496fac925" />
+        <field name="lab_name" value="Peach Iced Tea 500 ml" />
+        <field name="lab_sku" value="FOD-063" />
+        <field name="lab_availablequantity" value="60" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="False" />
+        <field name="lab_unitprice" value="1.19" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="f9c0881c-258f-42eb-b58b-84f2d37cda0e" lookupentity="lab_warehouselocation" lookupentityname="Overflow Storage" />
+        <field name="lab_productid" value="baff1cc7-41c1-53a4-8c3c-0c0ed996299b" lookupentity="lab_product" lookupentityname="Peach Iced Tea" />
+      </record>
+      <record id="04c5fb62-1d03-51f5-a67a-ec80f5299c7c">
+        <field name="lab_warehouseitemid" value="04c5fb62-1d03-51f5-a67a-ec80f5299c7c" />
+        <field name="lab_name" value="UHT Oat Drink 1 L" />
+        <field name="lab_sku" value="FOD-064" />
+        <field name="lab_availablequantity" value="25" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="False" />
+        <field name="lab_unitprice" value="1.79" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="2592a040-83b7-464e-ac3e-faff2031398c" lookupentity="lab_warehouselocation" lookupentityname="Main Warehouse" />
+        <field name="lab_productid" value="d0b9585c-cf00-5d98-8c26-bf6b5ae13b29" lookupentity="lab_product" lookupentityname="UHT Oat Drink" />
+      </record>
+      <record id="220ba0ca-8414-5c37-b285-9b9ceb9ec6c4">
+        <field name="lab_warehouseitemid" value="220ba0ca-8414-5c37-b285-9b9ceb9ec6c4" />
+        <field name="lab_name" value="UHT Almond Drink 1 L" />
+        <field name="lab_sku" value="FOD-065" />
+        <field name="lab_availablequantity" value="100" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="False" />
+        <field name="lab_unitprice" value="1.89" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="f9c0881c-258f-42eb-b58b-84f2d37cda0e" lookupentity="lab_warehouselocation" lookupentityname="Overflow Storage" />
+        <field name="lab_productid" value="6aa1d79f-7c1a-5bd5-87bd-751a4d14fe12" lookupentity="lab_product" lookupentityname="UHT Almond Drink" />
+      </record>
+      <record id="e00bcd3c-29fa-5ee4-9dc3-3bf06b61b514">
+        <field name="lab_warehouseitemid" value="e00bcd3c-29fa-5ee4-9dc3-3bf06b61b514" />
+        <field name="lab_name" value="Ready Salted Potato Crisps 150 g" />
+        <field name="lab_sku" value="FOD-066" />
+        <field name="lab_availablequantity" value="0" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="False" />
+        <field name="lab_unitprice" value="1.29" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="2592a040-83b7-464e-ac3e-faff2031398c" lookupentity="lab_warehouselocation" lookupentityname="Main Warehouse" />
+        <field name="lab_productid" value="ab3e32a5-7511-51b2-b371-79be680363d6" lookupentity="lab_product" lookupentityname="Ready Salted Potato Crisps" />
+      </record>
+      <record id="c3407a0a-6223-5ff6-a3e4-9d2f65521680">
+        <field name="lab_warehouseitemid" value="c3407a0a-6223-5ff6-a3e4-9d2f65521680" />
+        <field name="lab_name" value="Sea Salt Popcorn 90 g" />
+        <field name="lab_sku" value="FOD-067" />
+        <field name="lab_availablequantity" value="5" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="False" />
+        <field name="lab_unitprice" value="1.19" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="f9c0881c-258f-42eb-b58b-84f2d37cda0e" lookupentity="lab_warehouselocation" lookupentityname="Overflow Storage" />
+        <field name="lab_productid" value="2b7baff0-6b03-564c-90a7-935e21b0070f" lookupentity="lab_product" lookupentityname="Sea Salt Popcorn" />
+      </record>
+      <record id="56e03a3f-65f5-5b12-aeb1-cad133066903">
+        <field name="lab_warehouseitemid" value="56e03a3f-65f5-5b12-aeb1-cad133066903" />
+        <field name="lab_name" value="Roasted Salted Peanuts 200 g" />
+        <field name="lab_sku" value="FOD-068" />
+        <field name="lab_availablequantity" value="15" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="False" />
+        <field name="lab_unitprice" value="1.49" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="2592a040-83b7-464e-ac3e-faff2031398c" lookupentity="lab_warehouselocation" lookupentityname="Main Warehouse" />
+        <field name="lab_productid" value="d472c66a-b33b-5afb-b7f8-9079ca7a6f6c" lookupentity="lab_product" lookupentityname="Roasted Salted Peanuts" />
+      </record>
+      <record id="a378ae7c-4874-5935-93b4-424c536c64cd">
+        <field name="lab_warehouseitemid" value="a378ae7c-4874-5935-93b4-424c536c64cd" />
+        <field name="lab_name" value="Roasted Cashews 150 g" />
+        <field name="lab_sku" value="FOD-069" />
+        <field name="lab_availablequantity" value="40" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="False" />
+        <field name="lab_unitprice" value="2.49" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="f9c0881c-258f-42eb-b58b-84f2d37cda0e" lookupentity="lab_warehouselocation" lookupentityname="Overflow Storage" />
+        <field name="lab_productid" value="0a0e9499-0acf-5eef-964a-b6541d2418d1" lookupentity="lab_product" lookupentityname="Roasted Cashews" />
+      </record>
+      <record id="f6ee357c-94b4-5527-ace5-71a4af0986bb">
+        <field name="lab_warehouseitemid" value="f6ee357c-94b4-5527-ace5-71a4af0986bb" />
+        <field name="lab_name" value="Mixed Nuts &amp; Raisins 200 g" />
+        <field name="lab_sku" value="FOD-070" />
+        <field name="lab_availablequantity" value="80" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="False" />
+        <field name="lab_unitprice" value="2.19" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="2592a040-83b7-464e-ac3e-faff2031398c" lookupentity="lab_warehouselocation" lookupentityname="Main Warehouse" />
+        <field name="lab_productid" value="a3cfaa93-3bfb-567e-8c89-6cd1fa0a0671" lookupentity="lab_product" lookupentityname="Mixed Nuts &amp; Raisins" />
+      </record>
+      <record id="5c062e6d-4440-5f1b-b4dc-054085924851">
+        <field name="lab_warehouseitemid" value="5c062e6d-4440-5f1b-b4dc-054085924851" />
+        <field name="lab_name" value="Milk Chocolate Bar 100 g" />
+        <field name="lab_sku" value="FOD-071" />
+        <field name="lab_availablequantity" value="120" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="False" />
+        <field name="lab_unitprice" value="1.09" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="f9c0881c-258f-42eb-b58b-84f2d37cda0e" lookupentity="lab_warehouselocation" lookupentityname="Overflow Storage" />
+        <field name="lab_productid" value="c37d8f07-f6da-5f73-9f31-9416a391dc82" lookupentity="lab_product" lookupentityname="Milk Chocolate Bar" />
+      </record>
+      <record id="f32ec7da-49ec-5902-9446-90919f4c3fd6">
+        <field name="lab_warehouseitemid" value="f32ec7da-49ec-5902-9446-90919f4c3fd6" />
+        <field name="lab_name" value="Dark Chocolate Bar 100 g" />
+        <field name="lab_sku" value="FOD-072" />
+        <field name="lab_availablequantity" value="200" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="False" />
+        <field name="lab_unitprice" value="1.29" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="2592a040-83b7-464e-ac3e-faff2031398c" lookupentity="lab_warehouselocation" lookupentityname="Main Warehouse" />
+        <field name="lab_productid" value="719f4775-631a-55fa-9613-743fcc5dd5b8" lookupentity="lab_product" lookupentityname="Dark Chocolate Bar" />
+      </record>
+      <record id="b7c3ecf9-0a93-50ec-bfef-70a0f3864122">
+        <field name="lab_warehouseitemid" value="b7c3ecf9-0a93-50ec-bfef-70a0f3864122" />
+        <field name="lab_name" value="Oat &amp; Honey Snack Bars 6 x 30 g" />
+        <field name="lab_sku" value="FOD-073" />
+        <field name="lab_availablequantity" value="60" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="False" />
+        <field name="lab_unitprice" value="1.99" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="f9c0881c-258f-42eb-b58b-84f2d37cda0e" lookupentity="lab_warehouselocation" lookupentityname="Overflow Storage" />
+        <field name="lab_productid" value="99f462f4-bc7d-546b-96dd-7cfa7c01a08b" lookupentity="lab_product" lookupentityname="Oat &amp; Honey Snack Bars" />
+      </record>
+      <record id="1e239030-48d4-5252-9333-66d58f87722b">
+        <field name="lab_warehouseitemid" value="1e239030-48d4-5252-9333-66d58f87722b" />
+        <field name="lab_name" value="Cheese Crackers 200 g" />
+        <field name="lab_sku" value="FOD-074" />
+        <field name="lab_availablequantity" value="25" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="False" />
+        <field name="lab_unitprice" value="1.39" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="2592a040-83b7-464e-ac3e-faff2031398c" lookupentity="lab_warehouselocation" lookupentityname="Main Warehouse" />
+        <field name="lab_productid" value="6e8dfdc6-55c1-5192-9dce-71b0053cbfa2" lookupentity="lab_product" lookupentityname="Cheese Crackers" />
+      </record>
+      <record id="25963d71-a5bd-5025-b1f4-2c1b88bc3d89">
+        <field name="lab_warehouseitemid" value="25963d71-a5bd-5025-b1f4-2c1b88bc3d89" />
+        <field name="lab_name" value="Dried Mango Slices 100 g" />
+        <field name="lab_sku" value="FOD-075" />
+        <field name="lab_availablequantity" value="100" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="False" />
+        <field name="lab_unitprice" value="2.29" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="f9c0881c-258f-42eb-b58b-84f2d37cda0e" lookupentity="lab_warehouselocation" lookupentityname="Overflow Storage" />
+        <field name="lab_productid" value="db795490-bdba-5b3a-95e7-c1f66ef4d62b" lookupentity="lab_product" lookupentityname="Dried Mango Slices" />
+      </record>
+      <record id="d7a64678-e09b-5d8e-9f44-f61d08a75d90">
+        <field name="lab_warehouseitemid" value="d7a64678-e09b-5d8e-9f44-f61d08a75d90" />
+        <field name="lab_name" value="Extra Virgin Olive Oil 500 ml" />
+        <field name="lab_sku" value="FOD-076" />
+        <field name="lab_availablequantity" value="0" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="False" />
+        <field name="lab_unitprice" value="4.99" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="2592a040-83b7-464e-ac3e-faff2031398c" lookupentity="lab_warehouselocation" lookupentityname="Main Warehouse" />
+        <field name="lab_productid" value="6087f52a-ab72-55b2-9d42-647cdb7da377" lookupentity="lab_product" lookupentityname="Extra Virgin Olive Oil" />
+      </record>
+      <record id="e8f3aa74-20c8-577c-b654-894a2bf90ea2">
+        <field name="lab_warehouseitemid" value="e8f3aa74-20c8-577c-b654-894a2bf90ea2" />
+        <field name="lab_name" value="Sunflower Oil 1 L" />
+        <field name="lab_sku" value="FOD-077" />
+        <field name="lab_availablequantity" value="5" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="False" />
+        <field name="lab_unitprice" value="2.19" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="f9c0881c-258f-42eb-b58b-84f2d37cda0e" lookupentity="lab_warehouselocation" lookupentityname="Overflow Storage" />
+        <field name="lab_productid" value="fff28246-3ddc-5d9e-a948-a420d349c0d6" lookupentity="lab_product" lookupentityname="Sunflower Oil" />
+      </record>
+      <record id="c975d7d8-d5fc-5090-8e33-89c8b965da2e">
+        <field name="lab_warehouseitemid" value="c975d7d8-d5fc-5090-8e33-89c8b965da2e" />
+        <field name="lab_name" value="Balsamic Vinegar 250 ml" />
+        <field name="lab_sku" value="FOD-078" />
+        <field name="lab_availablequantity" value="15" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="False" />
+        <field name="lab_unitprice" value="1.99" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="2592a040-83b7-464e-ac3e-faff2031398c" lookupentity="lab_warehouselocation" lookupentityname="Main Warehouse" />
+        <field name="lab_productid" value="a1cb5c49-95b0-529d-986f-1c388a87b51b" lookupentity="lab_product" lookupentityname="Balsamic Vinegar" />
+      </record>
+      <record id="4ac8eef0-1a5d-5aa2-9d1c-79dca62e6de2">
+        <field name="lab_warehouseitemid" value="4ac8eef0-1a5d-5aa2-9d1c-79dca62e6de2" />
+        <field name="lab_name" value="Tomato Ketchup 500 g" />
+        <field name="lab_sku" value="FOD-079" />
+        <field name="lab_availablequantity" value="40" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="False" />
+        <field name="lab_unitprice" value="1.49" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="f9c0881c-258f-42eb-b58b-84f2d37cda0e" lookupentity="lab_warehouselocation" lookupentityname="Overflow Storage" />
+        <field name="lab_productid" value="0ccd520b-130a-54f7-963f-a14ea7c639af" lookupentity="lab_product" lookupentityname="Tomato Ketchup" />
+      </record>
+      <record id="e892cb6a-cf11-5476-9a01-c3a6925eb701">
+        <field name="lab_warehouseitemid" value="e892cb6a-cf11-5476-9a01-c3a6925eb701" />
+        <field name="lab_name" value="Classic Mayonnaise 450 ml" />
+        <field name="lab_sku" value="FOD-080" />
+        <field name="lab_availablequantity" value="80" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="False" />
+        <field name="lab_unitprice" value="1.79" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="2592a040-83b7-464e-ac3e-faff2031398c" lookupentity="lab_warehouselocation" lookupentityname="Main Warehouse" />
+        <field name="lab_productid" value="df3376f9-a1a6-5d57-85b4-468b83c2a7ae" lookupentity="lab_product" lookupentityname="Classic Mayonnaise" />
+      </record>
+      <record id="5797d9d3-89e5-5371-b95f-9a25f967c266">
+        <field name="lab_warehouseitemid" value="5797d9d3-89e5-5371-b95f-9a25f967c266" />
+        <field name="lab_name" value="Dijon Mustard 200 g" />
+        <field name="lab_sku" value="FOD-081" />
+        <field name="lab_availablequantity" value="120" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="False" />
+        <field name="lab_unitprice" value="1.29" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="f9c0881c-258f-42eb-b58b-84f2d37cda0e" lookupentity="lab_warehouselocation" lookupentityname="Overflow Storage" />
+        <field name="lab_productid" value="82eec66d-3aef-5d10-b0b1-89e0246f92fd" lookupentity="lab_product" lookupentityname="Dijon Mustard" />
+      </record>
+      <record id="70d16514-a14d-5178-9e79-2d23053fa916">
+        <field name="lab_warehouseitemid" value="70d16514-a14d-5178-9e79-2d23053fa916" />
+        <field name="lab_name" value="Light Soy Sauce 150 ml" />
+        <field name="lab_sku" value="FOD-082" />
+        <field name="lab_availablequantity" value="200" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="False" />
+        <field name="lab_unitprice" value="1.49" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="2592a040-83b7-464e-ac3e-faff2031398c" lookupentity="lab_warehouselocation" lookupentityname="Main Warehouse" />
+        <field name="lab_productid" value="7a762020-8b3f-5d0d-b963-74a58f64d9e5" lookupentity="lab_product" lookupentityname="Light Soy Sauce" />
+      </record>
+      <record id="8d329e93-6e10-5430-b2bb-005c4cc6c335">
+        <field name="lab_warehouseitemid" value="8d329e93-6e10-5430-b2bb-005c4cc6c335" />
+        <field name="lab_name" value="Basil Pesto 190 g" />
+        <field name="lab_sku" value="FOD-083" />
+        <field name="lab_availablequantity" value="60" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="False" />
+        <field name="lab_unitprice" value="1.89" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="f9c0881c-258f-42eb-b58b-84f2d37cda0e" lookupentity="lab_warehouselocation" lookupentityname="Overflow Storage" />
+        <field name="lab_productid" value="bdc13028-43f5-56b2-889b-60fc639f8817" lookupentity="lab_product" lookupentityname="Basil Pesto" />
+      </record>
+      <record id="c8ba055d-7663-515d-82f5-86c6e2c9137d">
+        <field name="lab_warehouseitemid" value="c8ba055d-7663-515d-82f5-86c6e2c9137d" />
+        <field name="lab_name" value="Mild Curry Sauce 500 g" />
+        <field name="lab_sku" value="FOD-084" />
+        <field name="lab_availablequantity" value="25" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="False" />
+        <field name="lab_unitprice" value="1.69" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="2592a040-83b7-464e-ac3e-faff2031398c" lookupentity="lab_warehouselocation" lookupentityname="Main Warehouse" />
+        <field name="lab_productid" value="1fdb5364-009f-50e4-891c-0b364b46f0fa" lookupentity="lab_product" lookupentityname="Mild Curry Sauce" />
+      </record>
+      <record id="37b818e0-2c89-5ba6-b1ae-8b85cd9dc9a1">
+        <field name="lab_warehouseitemid" value="37b818e0-2c89-5ba6-b1ae-8b85cd9dc9a1" />
+        <field name="lab_name" value="Tomato &amp; Basil Pasta Sauce 500 g" />
+        <field name="lab_sku" value="FOD-085" />
+        <field name="lab_availablequantity" value="100" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="False" />
+        <field name="lab_unitprice" value="1.59" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="f9c0881c-258f-42eb-b58b-84f2d37cda0e" lookupentity="lab_warehouselocation" lookupentityname="Overflow Storage" />
+        <field name="lab_productid" value="bbde3b77-f93f-5ea8-8c4e-b900b5f1801c" lookupentity="lab_product" lookupentityname="Tomato &amp; Basil Pasta Sauce" />
+      </record>
+      <record id="e0f631ce-432e-5fb9-81c6-28cfab0a55ec">
+        <field name="lab_warehouseitemid" value="e0f631ce-432e-5fb9-81c6-28cfab0a55ec" />
+        <field name="lab_name" value="Gala Apples 6 pack" />
+        <field name="lab_sku" value="FOD-086" />
+        <field name="lab_availablequantity" value="0" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="True" />
+        <field name="lab_unitprice" value="2.19" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="2592a040-83b7-464e-ac3e-faff2031398c" lookupentity="lab_warehouselocation" lookupentityname="Main Warehouse" />
+        <field name="lab_productid" value="68452a7d-e87f-5475-8814-feb414e56da2" lookupentity="lab_product" lookupentityname="Gala Apples" />
+      </record>
+      <record id="2d02ed41-99fe-5722-ba89-bf48b70c253e">
+        <field name="lab_warehouseitemid" value="2d02ed41-99fe-5722-ba89-bf48b70c253e" />
+        <field name="lab_name" value="Bananas 1 kg" />
+        <field name="lab_sku" value="FOD-087" />
+        <field name="lab_availablequantity" value="5" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="True" />
+        <field name="lab_unitprice" value="1.29" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="f9c0881c-258f-42eb-b58b-84f2d37cda0e" lookupentity="lab_warehouselocation" lookupentityname="Overflow Storage" />
+        <field name="lab_productid" value="60322c56-c3fa-54ba-9a4e-c694536df012" lookupentity="lab_product" lookupentityname="Bananas" />
+      </record>
+      <record id="5e2380db-50be-5c55-8a7f-f66adfbfc654">
+        <field name="lab_warehouseitemid" value="5e2380db-50be-5c55-8a7f-f66adfbfc654" />
+        <field name="lab_name" value="Conference Pears 4 pack" />
+        <field name="lab_sku" value="FOD-088" />
+        <field name="lab_availablequantity" value="15" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="True" />
+        <field name="lab_unitprice" value="1.99" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="2592a040-83b7-464e-ac3e-faff2031398c" lookupentity="lab_warehouselocation" lookupentityname="Main Warehouse" />
+        <field name="lab_productid" value="5f68a583-65a5-5569-9a0e-ac830eade728" lookupentity="lab_product" lookupentityname="Conference Pears" />
+      </record>
+      <record id="add3760d-07f7-5929-afb1-f0666d79da28">
+        <field name="lab_warehouseitemid" value="add3760d-07f7-5929-afb1-f0666d79da28" />
+        <field name="lab_name" value="Easy Peel Clementines 600 g" />
+        <field name="lab_sku" value="FOD-089" />
+        <field name="lab_availablequantity" value="40" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="True" />
+        <field name="lab_unitprice" value="2.29" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="f9c0881c-258f-42eb-b58b-84f2d37cda0e" lookupentity="lab_warehouselocation" lookupentityname="Overflow Storage" />
+        <field name="lab_productid" value="6ed6a8aa-0735-5912-9b19-7b8658a4dfce" lookupentity="lab_product" lookupentityname="Easy Peel Clementines" />
+      </record>
+      <record id="cbbad99b-c09d-53c2-b9c1-950563d31414">
+        <field name="lab_warehouseitemid" value="cbbad99b-c09d-53c2-b9c1-950563d31414" />
+        <field name="lab_name" value="Blueberries 150 g" />
+        <field name="lab_sku" value="FOD-090" />
+        <field name="lab_availablequantity" value="80" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="True" />
+        <field name="lab_unitprice" value="1.79" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="2592a040-83b7-464e-ac3e-faff2031398c" lookupentity="lab_warehouselocation" lookupentityname="Main Warehouse" />
+        <field name="lab_productid" value="46863800-02f9-5a60-b7df-22a0487b9af5" lookupentity="lab_product" lookupentityname="Blueberries" />
+      </record>
+      <record id="7d70db04-7d42-5294-a385-960fef5bb507">
+        <field name="lab_warehouseitemid" value="7d70db04-7d42-5294-a385-960fef5bb507" />
+        <field name="lab_name" value="Carrots 1 kg" />
+        <field name="lab_sku" value="FOD-091" />
+        <field name="lab_availablequantity" value="120" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="True" />
+        <field name="lab_unitprice" value="0.79" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="f9c0881c-258f-42eb-b58b-84f2d37cda0e" lookupentity="lab_warehouselocation" lookupentityname="Overflow Storage" />
+        <field name="lab_productid" value="9fd2e320-5351-516a-bc6b-3dd20704d9ed" lookupentity="lab_product" lookupentityname="Carrots" />
+      </record>
+      <record id="c8bb6fb3-f128-52bf-95fd-9793b43e4b55">
+        <field name="lab_warehouseitemid" value="c8bb6fb3-f128-52bf-95fd-9793b43e4b55" />
+        <field name="lab_name" value="Baking Potatoes 2.5 kg" />
+        <field name="lab_sku" value="FOD-092" />
+        <field name="lab_availablequantity" value="200" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="True" />
+        <field name="lab_unitprice" value="1.99" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="2592a040-83b7-464e-ac3e-faff2031398c" lookupentity="lab_warehouselocation" lookupentityname="Main Warehouse" />
+        <field name="lab_productid" value="a97a0ff9-cde3-5a79-8db0-0e25c6a9ede5" lookupentity="lab_product" lookupentityname="Baking Potatoes" />
+      </record>
+      <record id="326eb0b2-8f3f-594c-9258-d22dda0d036f">
+        <field name="lab_warehouseitemid" value="326eb0b2-8f3f-594c-9258-d22dda0d036f" />
+        <field name="lab_name" value="Cherry Tomatoes 250 g" />
+        <field name="lab_sku" value="FOD-093" />
+        <field name="lab_availablequantity" value="60" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="True" />
+        <field name="lab_unitprice" value="1.19" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="f9c0881c-258f-42eb-b58b-84f2d37cda0e" lookupentity="lab_warehouselocation" lookupentityname="Overflow Storage" />
+        <field name="lab_productid" value="c7ba1e3c-f794-5b17-8f3e-b0aa98338150" lookupentity="lab_product" lookupentityname="Cherry Tomatoes" />
+      </record>
+      <record id="b93bab06-a001-5c60-aae7-95a0064e3988">
+        <field name="lab_warehouseitemid" value="b93bab06-a001-5c60-aae7-95a0064e3988" />
+        <field name="lab_name" value="Baby Spinach 200 g" />
+        <field name="lab_sku" value="FOD-094" />
+        <field name="lab_availablequantity" value="25" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="True" />
+        <field name="lab_unitprice" value="1.49" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="2592a040-83b7-464e-ac3e-faff2031398c" lookupentity="lab_warehouselocation" lookupentityname="Main Warehouse" />
+        <field name="lab_productid" value="67a1bf44-ce22-5ffe-8bf5-dfa46c911861" lookupentity="lab_product" lookupentityname="Baby Spinach" />
+      </record>
+      <record id="68bbd89a-41eb-5d6c-9356-45b7cc70c5ec">
+        <field name="lab_warehouseitemid" value="68bbd89a-41eb-5d6c-9356-45b7cc70c5ec" />
+        <field name="lab_name" value="Mixed Bell Peppers 3 pack" />
+        <field name="lab_sku" value="FOD-095" />
+        <field name="lab_availablequantity" value="100" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="True" />
+        <field name="lab_unitprice" value="1.59" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="f9c0881c-258f-42eb-b58b-84f2d37cda0e" lookupentity="lab_warehouselocation" lookupentityname="Overflow Storage" />
+        <field name="lab_productid" value="92d0b70c-89e8-542c-a12c-e8f3022f7a63" lookupentity="lab_product" lookupentityname="Mixed Bell Peppers" />
+      </record>
+      <record id="246698b7-bb71-537c-8d73-bae79d481076">
+        <field name="lab_warehouseitemid" value="246698b7-bb71-537c-8d73-bae79d481076" />
+        <field name="lab_name" value="Frozen Garden Peas 900 g" />
+        <field name="lab_sku" value="FOD-096" />
+        <field name="lab_availablequantity" value="0" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="True" />
+        <field name="lab_unitprice" value="1.49" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="2592a040-83b7-464e-ac3e-faff2031398c" lookupentity="lab_warehouselocation" lookupentityname="Main Warehouse" />
+        <field name="lab_productid" value="cfe7c510-a38b-5a5e-899b-31adfd7e1c36" lookupentity="lab_product" lookupentityname="Frozen Garden Peas" />
+      </record>
+      <record id="cf58d176-2638-5791-acd9-2755a84f8212">
+        <field name="lab_warehouseitemid" value="cf58d176-2638-5791-acd9-2755a84f8212" />
+        <field name="lab_name" value="Frozen Sweetcorn 900 g" />
+        <field name="lab_sku" value="FOD-097" />
+        <field name="lab_availablequantity" value="5" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="True" />
+        <field name="lab_unitprice" value="1.69" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="f9c0881c-258f-42eb-b58b-84f2d37cda0e" lookupentity="lab_warehouselocation" lookupentityname="Overflow Storage" />
+        <field name="lab_productid" value="cb3980fc-a360-5c31-9cfc-7c99d9edaa74" lookupentity="lab_product" lookupentityname="Frozen Sweetcorn" />
+      </record>
+      <record id="8e56b4ee-7d66-5328-8b9d-4f7001f7d4be">
+        <field name="lab_warehouseitemid" value="8e56b4ee-7d66-5328-8b9d-4f7001f7d4be" />
+        <field name="lab_name" value="Frozen Mixed Berries 500 g" />
+        <field name="lab_sku" value="FOD-098" />
+        <field name="lab_availablequantity" value="15" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="True" />
+        <field name="lab_unitprice" value="2.49" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="2592a040-83b7-464e-ac3e-faff2031398c" lookupentity="lab_warehouselocation" lookupentityname="Main Warehouse" />
+        <field name="lab_productid" value="7a87fbe5-48da-5546-aa71-22eac6aaecdb" lookupentity="lab_product" lookupentityname="Frozen Mixed Berries" />
+      </record>
+      <record id="be3029f5-e147-5ac5-814e-a9dc273396c0">
+        <field name="lab_warehouseitemid" value="be3029f5-e147-5ac5-814e-a9dc273396c0" />
+        <field name="lab_name" value="Frozen Broccoli Florets 900 g" />
+        <field name="lab_sku" value="FOD-099" />
+        <field name="lab_availablequantity" value="40" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="True" />
+        <field name="lab_unitprice" value="1.79" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="f9c0881c-258f-42eb-b58b-84f2d37cda0e" lookupentity="lab_warehouselocation" lookupentityname="Overflow Storage" />
+        <field name="lab_productid" value="4537c278-aa7b-58d2-badf-24a50c836ed6" lookupentity="lab_product" lookupentityname="Frozen Broccoli Florets" />
+      </record>
+      <record id="29bf6d78-dd48-5e82-bd9f-fa1c6278335d">
+        <field name="lab_warehouseitemid" value="29bf6d78-dd48-5e82-bd9f-fa1c6278335d" />
+        <field name="lab_name" value="Frozen French Fries 1 kg" />
+        <field name="lab_sku" value="FOD-100" />
+        <field name="lab_availablequantity" value="80" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="True" />
+        <field name="lab_unitprice" value="1.99" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="2592a040-83b7-464e-ac3e-faff2031398c" lookupentity="lab_warehouselocation" lookupentityname="Main Warehouse" />
+        <field name="lab_productid" value="fa4f6010-d807-538f-9a56-a222d039a0ac" lookupentity="lab_product" lookupentityname="Frozen French Fries" />
+      </record>
+      <record id="6698c47e-874e-52bb-b128-b90dd6bcf811">
+        <field name="lab_warehouseitemid" value="6698c47e-874e-52bb-b128-b90dd6bcf811" />
+        <field name="lab_name" value="Frozen Margherita Pizza 300 g" />
+        <field name="lab_sku" value="FOD-101" />
+        <field name="lab_availablequantity" value="120" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="True" />
+        <field name="lab_unitprice" value="2.29" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="f9c0881c-258f-42eb-b58b-84f2d37cda0e" lookupentity="lab_warehouselocation" lookupentityname="Overflow Storage" />
+        <field name="lab_productid" value="cc3e7655-3b16-5a00-9377-f2c5caf30fa2" lookupentity="lab_product" lookupentityname="Frozen Margherita Pizza" />
+      </record>
+      <record id="21152a82-6811-5d9a-a35b-408894aeecce">
+        <field name="lab_warehouseitemid" value="21152a82-6811-5d9a-a35b-408894aeecce" />
+        <field name="lab_name" value="Frozen Vegetable Lasagne 400 g" />
+        <field name="lab_sku" value="FOD-102" />
+        <field name="lab_availablequantity" value="200" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="True" />
+        <field name="lab_unitprice" value="2.49" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="2592a040-83b7-464e-ac3e-faff2031398c" lookupentity="lab_warehouselocation" lookupentityname="Main Warehouse" />
+        <field name="lab_productid" value="7b8e3d38-6ca0-55a1-8a01-04d0bc9d03a6" lookupentity="lab_product" lookupentityname="Frozen Vegetable Lasagne" />
+      </record>
+      <record id="9b3dbb79-ef6b-5627-a560-708e19f8c1cd">
+        <field name="lab_warehouseitemid" value="9b3dbb79-ef6b-5627-a560-708e19f8c1cd" />
+        <field name="lab_name" value="Frozen Breaded Fish Fillets 4 x 100 g" />
+        <field name="lab_sku" value="FOD-103" />
+        <field name="lab_availablequantity" value="60" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="True" />
+        <field name="lab_unitprice" value="3.49" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="f9c0881c-258f-42eb-b58b-84f2d37cda0e" lookupentity="lab_warehouselocation" lookupentityname="Overflow Storage" />
+        <field name="lab_productid" value="805676b4-ac29-58b9-b238-664e1f31209d" lookupentity="lab_product" lookupentityname="Frozen Breaded Fish Fillets" />
+      </record>
+      <record id="5bca0972-089a-59a9-ae86-dbe91bc1682a">
+        <field name="lab_warehouseitemid" value="5bca0972-089a-59a9-ae86-dbe91bc1682a" />
+        <field name="lab_name" value="Vanilla Ice Cream 1 L" />
+        <field name="lab_sku" value="FOD-104" />
+        <field name="lab_availablequantity" value="25" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="True" />
+        <field name="lab_unitprice" value="2.79" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="2592a040-83b7-464e-ac3e-faff2031398c" lookupentity="lab_warehouselocation" lookupentityname="Main Warehouse" />
+        <field name="lab_productid" value="bfa53790-8530-5e10-bef8-369b7227896c" lookupentity="lab_product" lookupentityname="Vanilla Ice Cream" />
+      </record>
+      <record id="a6b74a77-7e54-571b-9c56-c4c3bd9abbef">
+        <field name="lab_warehouseitemid" value="a6b74a77-7e54-571b-9c56-c4c3bd9abbef" />
+        <field name="lab_name" value="Mango Sorbet 500 ml" />
+        <field name="lab_sku" value="FOD-105" />
+        <field name="lab_availablequantity" value="100" />
+        <field name="lab_category" value="100000002" />
+        <field name="lab_isperishable" value="True" />
+        <field name="lab_unitprice" value="2.49" />
+        <field name="lab_reorderpoint" value="20" />
+        <field name="lab_locationid" value="f9c0881c-258f-42eb-b58b-84f2d37cda0e" lookupentity="lab_warehouselocation" lookupentityname="Overflow Storage" />
+        <field name="lab_productid" value="9b0b631f-24fd-58b5-b1c3-f8c6d2870285" lookupentity="lab_product" lookupentityname="Mango Sorbet" />
       </record>
     </records>
     <m2mrelationships />

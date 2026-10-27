@@ -83,6 +83,22 @@ Run a checkpoint:
 .lab-scripts/CP01-check-machine-setup.ps1
 ```
 
+## Demo configuration data
+
+The deployment seed in [data.xml](src/Packages.Main/Data/data.xml) contains the two
+original Open Food Facts products plus 100 fictional food products, each with a
+linked warehouse item (105 warehouse items in total). The demo stock is split
+between Main Warehouse and Overflow Storage, with out-of-stock, low-stock and
+regular-stock examples.
+
+Fictional brands start with `Demo`. Their checksum-valid EAN-13 barcodes use the
+restricted-circulation prefix `20` and are for this lab only, not real retail
+identifiers or Open Food Facts lookups. Image URLs and last-sync dates are omitted
+for fictional products because they have not been synced from Open Food Facts.
+Prices and stock levels are illustrative; frozen products require suitable storage.
+Existing products, locations and transactions are preserved. These additions are
+included in the next package build; editing the seed does not deploy it.
+
 ## Checkpoint tags
 
 Every checkpoint commits, pushes, and tags its result; the tag marks the latest run of that

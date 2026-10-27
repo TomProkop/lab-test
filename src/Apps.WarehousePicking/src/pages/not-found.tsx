@@ -1,6 +1,6 @@
 import { useNavigate } from "react-router-dom"
 import { Body1, Button, LargeTitle } from "@fluentui/react-components"
-import { useStyles } from "./not-found.styles"
+import { useStyles } from "@/styles/not-found.styles"
 
 export default function NotFoundPage() {
   const styles = useStyles()
