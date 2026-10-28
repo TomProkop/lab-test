@@ -136,5 +136,44 @@ namespace Tests.Plugins
 
             Assert.AreEqual(2, AvailableQuantity(item.Id));
         }
+
+        [TestMethod]
+        public void Update_Without_PreImage_In_PostOperation_Throws()
+        {
+            var item = SeedItem(available: 2);
+            var existing = MakeTransaction(item.Id, 5, Outbound);
+            existing["lab_quantity"] = 6;
+            _service.Create(existing);
+
+            var pluginContext = _context.GetDefaultPluginContext();
+            pluginContext.MessageName = "Update";
+            pluginContext.Stage = 40;
+            pluginContext.PrimaryEntityName = "lab_warehousetransaction";
+            pluginContext.InputParameters["Target"] = new Entity("lab_warehousetransaction", existing.Id) { ["lab_quantity"] = 6 };
+
+            Assert.ThrowsExactly<InvalidPluginExecutionException>(
+                () => _context.ExecutePluginWith(pluginContext, new SubtractQuantityPlugin(string.Empty, string.Empty)));
+            Assert.AreEqual(2, AvailableQuantity(item.Id));
+        }
+
+        [TestMethod]
+        public void Update_That_Would_Make_Stock_Negative_Throws()
+        {
+            // Another save used the stock after PreValidation passed.
+            var item = SeedItem(available: 0);
+
+            Assert.ThrowsExactly<InvalidPluginExecutionException>(
+                () => ExecuteUpdate(MakeTransaction(item.Id, 5, Outbound), "lab_quantity", 6));
+            Assert.AreEqual(0, AvailableQuantity(item.Id));
+        }
+
+        [TestMethod]
+        public void Update_That_Would_Overflow_Stock_Throws()
+        {
+            var item = SeedItem(available: int.MaxValue - 1);
+
+            Assert.ThrowsExactly<InvalidPluginExecutionException>(
+                () => ExecuteUpdate(MakeTransaction(item.Id, 1, Inbound), "lab_quantity", 5));
+        }
     }
 }

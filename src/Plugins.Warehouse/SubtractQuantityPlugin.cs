@@ -1,4 +1,6 @@
 using Microsoft.Xrm.Sdk;
+using Microsoft.Xrm.Sdk.Messages;
+using Microsoft.Xrm.Sdk.Query;
 using TALXIS.DevKit.Build.Dataverse.Plugin;
 
 namespace Plugins.Warehouse
@@ -37,10 +39,34 @@ namespace Plugins.Warehouse
                     continue;
                 }
 
-                var available = StockChange.GetAvailable(service, change.Key);
-                service.Update(new Entity(StockChange.ItemEntity, change.Key)
+                var item = service.Retrieve(StockChange.ItemEntity, change.Key, new ColumnSet(StockChange.AvailableQuantity));
+                long available = item.GetAttributeValue<int?>(StockChange.AvailableQuantity) ?? 0;
+                var balance = available + change.Value;
+
+                // Re-checked here because another save may have used the stock since PreValidation ran.
+                if (balance < 0)
                 {
-                    [StockChange.AvailableQuantity] = available + change.Value
+                    throw new InvalidPluginExecutionException(
+                        $"Not enough product in stock. Available: {available}, requested: {-change.Value}.");
+                }
+
+                if (balance > int.MaxValue)
+                {
+                    throw new InvalidPluginExecutionException(
+                        $"The available quantity can't exceed {int.MaxValue}. Available: {available}, adding: {change.Value}.");
+                }
+
+                // Fails instead of overwriting when another save changed the item after it was read above.
+                service.Execute(new UpdateRequest
+                {
+                    Target = new Entity(StockChange.ItemEntity, change.Key)
+                    {
+                        [StockChange.AvailableQuantity] = (int)balance,
+                        RowVersion = item.RowVersion
+                    },
+                    ConcurrencyBehavior = string.IsNullOrEmpty(item.RowVersion)
+                        ? ConcurrencyBehavior.Default
+                        : ConcurrencyBehavior.IfRowVersionMatches
                 });
             }
         }

@@ -19,13 +19,14 @@ namespace Plugins.Warehouse
         public const string PreImageName = "PreImage";
         public const int Inbound = 100000000;
         public const int Outbound = 100000001;
+        private const int PostOperationStage = 40;
 
         public static readonly string[] TrackedAttributes = { Quantity, ItemId, TransactionType };
 
         /// <summary>
         /// Net change of available quantity per item, or null when the message doesn't touch stock.
         /// </summary>
-        public static Dictionary<Guid, int> Calculate(IPluginExecutionContext context, IOrganizationService service)
+        public static Dictionary<Guid, long> Calculate(IPluginExecutionContext context, IOrganizationService service)
         {
             if (!(context.InputParameters.TryGetValue("Target", out var targetObject) && targetObject is Entity target)
                 || target.LogicalName != TransactionEntity)
@@ -33,7 +34,7 @@ namespace Plugins.Warehouse
                 return null;
             }
 
-            var changes = new Dictionary<Guid, int>();
+            var changes = new Dictionary<Guid, long>();
 
             if (context.MessageName == "Create")
             {
@@ -89,10 +90,17 @@ namespace Plugins.Warehouse
                 return image;
             }
 
+            // After the save the record already holds the new values, so only earlier stages can read the old ones.
+            if (context.Stage >= PostOperationStage)
+            {
+                throw new InvalidPluginExecutionException(
+                    $"The '{PreImageName}' pre-image is missing from the {context.MessageName} step, so the stock change can't be calculated.");
+            }
+
             return service.Retrieve(TransactionEntity, id, new ColumnSet(TrackedAttributes));
         }
 
-        private static void Add(Dictionary<Guid, int> changes, Entity transaction, int sign = 1)
+        private static void Add(Dictionary<Guid, long> changes, Entity transaction, int sign = 1)
         {
             var itemRef = transaction.GetAttributeValue<EntityReference>(ItemId);
             if (itemRef == null)
@@ -101,7 +109,7 @@ namespace Plugins.Warehouse
             }
 
             var quantity = transaction.GetAttributeValue<int?>(Quantity) ?? 0;
-            int effect;
+            long effect;
             switch (transaction.GetAttributeValue<OptionSetValue>(TransactionType)?.Value)
             {
                 case Inbound:

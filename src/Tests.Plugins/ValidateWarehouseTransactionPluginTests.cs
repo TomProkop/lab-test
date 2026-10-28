@@ -173,5 +173,18 @@ namespace Tests.Plugins
 
             _context.ExecutePluginWith(pluginContext, new ValidateWarehouseTransactionPlugin(string.Empty, string.Empty));
         }
+
+        [TestMethod]
+        public void Update_Large_Inbound_To_Outbound_Does_Not_Overflow()
+        {
+            // Undoing +1.5bn and applying -1.5bn needs 3bn in total, which doesn't fit in an int.
+            var item = SeedItem(available: 1500000000);
+            var existing = MakeTransaction(item.Id, quantity: 1500000000, Inbound);
+
+            var ex = Assert.ThrowsExactly<InvalidPluginExecutionException>(
+                () => ExecuteUpdate(Change(existing, "lab_transactiontype", new OptionSetValue(Outbound)), existing));
+
+            StringAssert.Contains(ex.Message, "requested: 3000000000");
+        }
     }
 }
