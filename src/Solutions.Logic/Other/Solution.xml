@@ -131,6 +131,8 @@
       <RootComponent type="91" id="{cda3a6b5-c259-4b3e-8934-1c63552ba28d}" schemaName="PluginsWarehouse, Version=1.0.0.0, Culture=neutral, PublicKeyToken=0b494a74fab8a6a2" behavior="0" />
       <RootComponent type="92" id="{d6044f75-0b55-96b2-c419-830999410cb2}" behavior="0" />
       <RootComponent type="92" id="{dcf55b20-fb26-aec0-f91a-dfb8c221f6d6}" behavior="0" />
+      <RootComponent type="92" id="{8eb65d88-eafc-8cc8-2fbc-83ff2602aa7a}" behavior="0" />
+      <RootComponent type="92" id="{1c2a6e67-3c14-0bef-c5c4-f611f9e91db1}" behavior="0" />
     </RootComponents>
     <MissingDependencies />
   </SolutionManifest>
