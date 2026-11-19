@@ -1,7 +1,35 @@
 import { useMemo, useState, useSyncExternalStore } from "react"
-import { FluentProvider, webDarkTheme, webLightTheme } from "@fluentui/react-components"
+import {
+  FluentProvider,
+  createDarkTheme,
+  createLightTheme,
+  type BrandVariants,
+} from "@fluentui/react-components"
 import { PcfProvider } from "@/providers/pcf-provider"
 import { ThemeProviderContext, type Theme } from "@/providers/theme-context"
+
+// Power Apps brand purple (#742774) at shade 80, the primary brand slot.
+const powerAppsBrand: BrandVariants = {
+  10: "#0B030B",
+  20: "#1A081A",
+  30: "#290D29",
+  40: "#381238",
+  50: "#471847",
+  60: "#561D56",
+  70: "#652265",
+  80: "#742774",
+  90: "#854085",
+  100: "#965A96",
+  110: "#A773A7",
+  120: "#B88DB8",
+  130: "#C8A6C8",
+  140: "#D9BFD9",
+  150: "#EAD9EA",
+  160: "#FBF2FB",
+}
+
+const lightTheme = createLightTheme(powerAppsBrand)
+const darkTheme = createDarkTheme(powerAppsBrand)
 
 type ThemeProviderProps = {
   children: React.ReactNode
@@ -32,7 +60,7 @@ export function ThemeProvider({
   )
   const prefersDark = usePrefersDark()
   const isDark = theme === "dark" || (theme === "system" && prefersDark)
-  const tokenTheme = isDark ? webDarkTheme : webLightTheme
+  const tokenTheme = isDark ? darkTheme : lightTheme
 
   const fluentDesignLanguage = useMemo(() => ({ isDarkTheme: isDark, tokenTheme }), [isDark, tokenTheme])
 
