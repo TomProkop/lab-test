@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SdkMessageProcessingStep Name="Plugins.Warehouse.SubtractQuantityPlugin: Update of lab_warehousetransaction" SdkMessageProcessingStepId="{8eb65d88-eafc-8cc8-2fbc-83ff2602aa7a}" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SdkMessageId>20bebb1b-ea3e-db11-86a7-000a3a5473e8</SdkMessageId>
+  <PluginTypeName>Plugins.Warehouse.SubtractQuantityPlugin, PluginsWarehouse, Version=1.0.0.0, Culture=neutral, PublicKeyToken=0b494a74fab8a6a2</PluginTypeName>
+  <PluginTypeId>4a7206d2-7d46-456c-b03f-55a5ef8cfa16</PluginTypeId>
+  <PrimaryEntity>lab_warehousetransaction</PrimaryEntity>
+  <AsyncAutoDelete>0</AsyncAutoDelete>
+  <Description>Plugins.Warehouse.SubtractQuantityPlugin: Update of lab_warehousetransaction</Description>
+  <FilteringAttributes>lab_quantity,lab_itemid,lab_transactiontype</FilteringAttributes>
+  <InvocationSource>1</InvocationSource>
+  <Mode>0</Mode>
+  <Rank>1</Rank>
+  <EventHandlerTypeCode>4602</EventHandlerTypeCode>
+  <Stage>40</Stage>
+  <IsCustomizable>1</IsCustomizable>
+  <IsHidden>0</IsHidden>
+  <SupportedDeployment>0</SupportedDeployment>
+  <IntroducedVersion>1.0</IntroducedVersion>
+  <SdkMessageProcessingStepImages>
+    <SdkMessageProcessingStepImage Name="PreImage">
+      <SdkMessageProcessingStepImageId>{2bdde6ef-aac1-1d2e-4e91-5b30a0fc0df1}</SdkMessageProcessingStepImageId>
+      <Attributes>lab_quantity,lab_itemid,lab_transactiontype</Attributes>
+      <EntityAlias>PreImage</EntityAlias>
+      <ImageType>0</ImageType>
+      <MessagePropertyName>Target</MessagePropertyName>
+      <IsCustomizable>1</IsCustomizable>
+    </SdkMessageProcessingStepImage>
+  </SdkMessageProcessingStepImages>
+</SdkMessageProcessingStep>
